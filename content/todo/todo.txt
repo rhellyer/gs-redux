@@ -1,0 +1,33 @@
+Title: To Do
+
+----
+
+Text: 
+
+- Home Page
+  - add tagline and try larger logo
+  - replace b/w images with ones from image pool if necessary
+  - add copyright/contact/hot links into footer
+- About Us pages
+  - possibly consolidate all 'bio' pages (team/founder/partners/board)
+  - possibly break out history to it's own page and add more on the landing page
+    about the benificiaries of GS mission (photos especially)
+  - Need photos of 'team' (cindy, josh, sloane, jennifer)
+  - Layout contact us page
+  - Copy over articles from 2012
+- Our Work pages
+  - Create repository of medical information using existing 
+    links and pdf's on current site (hidden repository)
+  - Switch 'education and training' banner images for more appropriate ones
+  - there are now just 3 categories in 'education and training' .. is this correct?
+  - need to decide on what to do for regional portfolios (at present they are a listing
+    of partners)
+- Give Pages
+  - add HEP matching gift search feature
+  - review/revise 'impact of your gift'
+  - add icons (eg. for phone/email)
+  - possibly add icons for donation levels
+  - re-work for alternative name for 'hope partner' program
+  - specify etapestry pages for one-time and recurring gifts (post launch)
+
+

@@ -1,0 +1,45 @@
+﻿Title: Donate Online
+
+----
+
+Layout: donation-form
+
+----
+
+Text: 
+
+Thank you for your generous contribution which will save lives and alleviate suffering.
+
+Your compassionate gift is truly life changing.
+
+
+##Gift Information
+
+>(image: amount.png)
+
+##Contact Information
+
+>(image: contact.png)
+
+
+##Payment Information
+
+
+>(image: payment.png)
+
+
+##Comments
+
+
+>(image: comment.png)
+
+
+##Security Code
+
+
+>(image: security.png)
+
+
+
+
+

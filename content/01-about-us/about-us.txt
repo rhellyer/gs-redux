@@ -1,0 +1,104 @@
+﻿Title: About Us
+----
+Layout:  about
+----
+missiontitle: Our Mission
+----
+missiontext: 
+
+Global Strategies empowers communities in the most neglected areas of the world to improve the health of women and children.
+
+----
+modeltitle: What We Do
+----
+modeltext:
+
+We serve women and children in the most neglected areas of the world who have limited or no access to modern healthcare. We are committed to transforming these communities by reducing maternal and infant mortality and overcoming barriers to the overall health of women and children.  We achieve lasting change with the following strategies: 
+
+<p><span class="inlineheading">Educate</span><br> Identify and train local partners to deliver quality healthcare in their communities</p>
+
+<p><span class="inlineheading">Connect</span><br>Link local organizations to partners and resources to ensure sustainability  </p>
+
+<p><span class="inlineheading">Innovate</span><br>Pioneer new educational programs and improve evaluation tools to create lasting impact</p>         
+
+----
+
+howweworktitle: How We Work
+
+----
+
+howwework:
+
+We partner with local healthcare providers in areas of the world where few humanitarian organizations will go or stay.
+
+Global Strategies and our local partners each bring something to the table.  Our experience creating effective programs combined with our partners' knowledge of the local health and political landscape creates a partnership that provides women and children with outstanding medical care. 
+
+How do you improve the health of a mother or child living 9,000 miles away, in a place completely unlike your own?  Global Strategies focuses on investing in and building long-term relationships with local healthcare workers. The best person to take care of a mother or child is a trained professional living and working in the patient’s community. Our job is to identify great local providers, train additional ones when needed, and provide them with the vital tools and resources necessary to help their own communities reach health.
+
+
+----
+
+whowearetitle: Who We Are
+
+----
+whoweare:
+
+<ul class="whoweare">
+	<li><span>(image:assets/images/person-green.png)</span>(link:about-us/team text:Our Team, Staff, and Board Members)</li>
+	<li><span>(image:assets/images/person-blue.png)</span>(link:about-us/supporters text:Our Supporters) </li>
+	<li><span>(image:assets/images/person-red.png)</span>(link:our-work/regional-partners text:Our Regional Partners)</li>
+</ul>
+
+----
+
+earlyyearstitle: The Early Years
+----
+earlyyearstext: 
+
+In 1981 our founder (link: about-us/founder text:Dr. Arthur J. Ammann) described two of the three ways that HIV is transmitted, a discovery based in large part on his work caring for infants with what appeared to be a new immunodeficiency disorder called AIDS.   Now decades later, HIV as taken the lives of millions living worldwide. In 1999, Dr. Ammann founded Global Strategies to address the inequity of HIV prevention services provided around the world.
+
+The early years focused on international workshops to provide accurate and up-to-date information to those on the frontlines of HIV prevention and treatment.  As momentum increased, the organization began to work with indigenous leaders of resource poor countries to establish model programs in HIV prevention and care.  These programs included addressing Prevention of Mother to Child Transmission of HIV (PMTCT), Pediatric HIV, and Post-exposure Prophylaxis (PEP) for victims of sexual violence.   
+
+From 2001 to 2009 Global Strategies co-initiated model HIV programs and trainings with implementing partners in the Dominican Republic, Nigeria, Democratic Republic of the Congo, and Liberia. o regional portfolios – use content from old GS site for DR and Nigeria] Each model was unique to its regional context and addressed needs identified by the field partners.  In addition, Global Strategies engaged American communities through Hope Walks events to rally support for programs addressing the health and educational needs of orphans and vulnerable children (OVC) in seven different countries.  
+
+From 2010 to 2012 we conducted extensive evaluations and monitoring initiatives to look for ways to improve our delivery of HIV prevention and care services.  Working directly with clinical providers, we gained a more nuanced understanding of how our partners deliver care in complex and culturally unique settings that are over-burdened with acute care issues.  With the knowledge that preventing HIV transmission is essential and cost-effective, coupled with the recognition of this on-the-ground reality, it became clear that to optimize HIV prevention we needed to work through existing maternal child health programs. 
+
+This greater understanding of the complex problems that affected our implementing partners and their patients led to rewriting our mission to facilitate better delivery of healthcare and educational training centered on maternal and child health.  In this process we came to recognize new opportunities with like-minded organizations that had been long-term partners and new opportunities to work together within the new mission.
+
+----
+todaytitle: Improving Health Today
+----
+todaytext: 
+
+In 2013 Global Strategies merged with The International Pediatric Outreach Project (IPOP).  IPOP was co-founded in 2002 by Theodore Ruel, M.D. and Sadath Sayeed, M.D., J.D. The broad aim was to improve the health of children in under-resourced communities across the globe.  IPOP established hospital neonatal projects, rehabilitation initiatives, school health programs, and scholarships for healthcare professionals.
+
+This merger has provided new opportunities to improve access to adequate and modern healthcare. Through our (link:our-work/education-training text:Education & Training), (link:our-work/prevention-care text:Prevention & Care), and (link:our-work/public-advocacy text:Public Issue Advocacy) programs we empower frontline healthcare workers and improve the health of women and children around the world.
+
+----
+sidebar:
+
+<div>(image:side1.jpg)</div>
+Caring for a baby requires special training.  In North Kivu, DRC, we created a neonatal care team of expert nurses to reduce the number of deaths in babies under 1 month old.  These nurses are now training others in baby care. 
+
+<div>(image:side2.jpg)</div>
+Sadly, sexual violence against women is a war tactic in the Eastern Congo.  We are partnering with local health groups to make sure that women who are victims of violence do not acquire HIV.  In these horrible cases, HIV can be prevented with timely administration of medication. 
+
+<div>(image:side3.jpg)</div>
+How do you educate healthcare workers about best practices in keeping babies and moms alive? That is the question Global Strategies will try to answer in Liberia as we launch a partnership with local organizations to reduce neonatal mortality by pioneering real-time education and reporting technologies.
+
+<div>(image:side4.jpg)</div>
+We are modeling a partnership with a large rural conservation organization in Zimbabwe. Using their infrastructure, we are efficiently delivering healthcare to women and children to prevent HIV and reduce infant mortality. 
+
+
+
+<!-- <div>(image:side5.jpg)</div>
+In places like rural India, the importance of rehabilitation after injury takes on a life-or-death significance as the ability to walk and use one's hands are essential to survival.  We are replicating our successful delivery model used in Congo to deliver life-saving services to rural India. -->
+
+
+ 
+
+
+
+
+
+

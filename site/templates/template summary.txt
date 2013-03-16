@@ -1,0 +1,52 @@
+--------------------------------------SPLASH PAGE-------------------------------------------
+
+SPLASH PAGE                             * OK  .. comp created.   
+
+--------------------------------------HOME PAGE---------------------------------------------
+
+HOME PAGE                               * update photos . should they be color? are these OK
+                                        * add icons  
+                                        * add link to press release      
+
+---------------------------------------ABOUT US----------------------------------------------
+
+ABOUT
+About Us                                * OK                
+Our History                             * OK (incorporated changes)               
+Our Team                                * should menu item be 'Our Team'
+                                        * should we expand all or some of the bios
+                                        * better photo / alternative josh photo
+                                        # need text for supporters intro
+                                        # need text for regional partners intro  
+Founder                                 * OK                   
+Supporters                              # need content review for this page   
+                                        * i used existing site content temporarily
+Contact Us                              * TBD     
+About US > News                         * I need to copy in news from existing site             
+- Halt SIDA                             * OK
+- Liberia Site Visit                    * OK
+Financial Reports                       * OK (used existing site info)
+
+---------------------------------------GIVE-------------------------------------------------
+ 
+GIVE
+Give Today                              * OK                  
+One-Time Gifts                          * OK            
+Hope Partners                           * OK                                                
+Matching Gifts                          * OK              
+The Impact of Your Gift                 * OK
+Other Ways to Give                      * OK
+Frequently Asked Questions              * OK
+
+---------------------------------------OUR WORK----------------------------------------------
+
+OUR WORK
+Our Work                                * OK                  
+Our Work > Prevention & Care            * OK (may need change images)
+Education & Training                    * OK   
+Public Issue Advocacy                   * OK       
+Field Reports                           * I used liberia photos and captions              
+Regional Partners                       * OK
+Support Resources                       # Need content review from existing site      
+
+---------------------------------------------------------------------------------------------

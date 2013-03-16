@@ -1,0 +1,22 @@
+﻿Title: Supporters
+----
+
+text:
+Global Strategies is grateful to the variety of partners who help us in our mission to serve women and children. These generous supporters include individuals, corporations, foundations and community organizations who show their commitment to improving the lives of women and children by supporting our work through financial donations, medical supplies and offering their professional expertise.
+
+##Google, Inc
+##Metrodigi
+##Jones Day
+##Save the Children
+##Robert James Frascino AIDS Foundation
+##Friedland Foundation
+##First Presbyterian Church Berkeley
+##Gilead Foundation
+##Gilead Sciences
+##Mennonite Central Committee
+##Christ Presbyterian Church
+##Crowell Trust
+
+
+
+ 

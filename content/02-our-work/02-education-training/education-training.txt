@@ -1,0 +1,57 @@
+﻿Title: Education & Training
+
+----
+text_title: ##a critical shortage
+----
+
+Text: 
+
+Africa as a region bears more than 24% of the global burden of disease but has access to only 3% of the world's health workers and less than 1% of the world's financial resources. 
+
+We address this critical shortage of healthcare workers by investing in a sustainable training model for frontline workers.  We work alongside field partners to identify critical needs and the innovative methods to address them, including training, modifying workflow or by facilitating access to essential tools and medications.
+
+----
+
+
+bannerlinks: <a href="#article1" class="fancybox">(image:hcw.png title:Health Care Workers)</a> <a href="#article2" class="fancybox">(image:rehab.png title:Rehabilitation)</a><!--<a href="#article3" class="fancybox">(image:traininghcw.png title:Training)</a>--><a href="#article4" class="fancybox">(image:trainingcl.png title:Community Training)</a>
+----
+
+article1_title: ##Healthcare Workers
+
+----
+
+article1_text:
+
+Global Strategies works with field partners to identify the most important and relevant needs of the frontline workers.  Through site assessment and collaborative planning we address barriers to providing quality healthcare including access to education, certification, and innovative tools. We aim to improve health by generating a network of skilled healthcare providers through these long-term educational relationships that include training and professional mentorship.
+
+----
+
+article2_title: ##Rehabilitation
+
+----
+
+article2_text: 
+
+Our rehabilitation training model uses a curriculum designed and implemented by physical therapists including over 100 hours of formal didactic instruction and one-on-one clinical mentorship.  We work alongside frontline workers to meet specific needs, establishing long-term relationships to address educational needs and build the capacity of field partners.
+
+----
+article3_title:##Training for Healthcare Workers
+
+----
+
+article3_text:
+We aim to lessen the causes of death by generating a network of skilled healthcare providers through long-term relationships that include training and professional mentorship, in addition to equipping providers with innovative tools.
+
+----
+
+article4_title:##Training for Community Leaders
+
+----
+
+article4_text:
+
+Successful healthcare interventions with field partners are only possible when we work alongside the community itself, reaching out to faith leaders, the youth, and highly committed community workers.
+    
+----
+
+

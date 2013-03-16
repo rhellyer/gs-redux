@@ -1,0 +1,35 @@
+﻿Title: Our Work
+
+----
+
+Text: 
+
+Global Strategies field partners are frontline healthcare workers in an environment where mortality from complications during labor and delivery, disease, and life-threatening disabilities are a daily reality.  The difference between the life and death is medical care from a trained healthcare professional.
+
+----
+wherewework: 
+
+##Where We Work
+
+<i class="icon-globe icon-4x pull-left" style="color:#888; margin-top:-10px"></i>Site-specific projects are currently underway in Democratic Republic of the Congo,  India, and Zimbabwe. 
+For more information, check our (Link:our-work/regional-portfolios text: Regional Portfolios page »)
+
+----
+link1:
+(image:pc.png link:our-work/prevention-care title:Prevention and Care )
+----
+
+link2:
+(image:et.png link:our-work/education-training title: Education and Training )
+----
+
+link3:
+(image:pia.png link:our-work/public-advocacy title: Public Issue Advocacy)
+----
+
+link4:
+(image:www.png link:our-work/regional-portfolios title:Regional Portfolios)
+----
+
+
+

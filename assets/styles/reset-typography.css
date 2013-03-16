@@ -1,0 +1,93 @@
+  * {
+  margin: 0px;
+  padding: 0px;
+}
+blockquote {
+    margin-left: 20px;   
+}
+html {
+  height: 101%;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+@font-face {
+  font-family: "Piron";
+  src: url('../fonts/piron.otf');
+}
+body {
+  font-family: "myriad-pro", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  background: white;
+  background: hsl(46, 82%, 96%);
+  color: hsl(0, 0%, 10%);
+}
+a {
+  color: hsl(8, 62%, 52%);
+  text-decoration: none;
+}
+a,
+a:hover,
+a:active,
+a:visited {
+  outline: 0px;
+}
+a:hover {
+  color: #CF4C3C;
+  text-decoration: underline;
+}
+img {
+  outline: 0;
+  border: 0;
+}
+
+ul {
+    margin-left:2em;
+    margin-bottom: 1em;
+   
+}
+h1, h2, h3 { 
+    font-family: myriad-pro, helvetica, sans-serif; 
+}
+h1 {
+  font-family: myriad-pro-semi-condensed,  myriad-pro, helvetica, arial, sans-serif;
+  font-size: 40px;
+  line-height: 50px;
+  color: hsl(0, 0%, 40%);
+  margin-bottom: 20px;
+  font-weight: 300;
+}
+h1.title {
+  font-weight: 600;
+  color: hsl(0, 0%, 40%);
+  font-family: myriad-pro-condensed, helvetica, arial, sans-serif;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+h2, h2>a {
+  font-family:  myriad-pro, helvetica, sans-serif;
+/*    text-transform: lowercase;*/
+  font-size: 20px;
+  font-weight: normal;
+  font-weight: 600;
+    color: #dd5a48;   /*red*/  
+    color: #c53826;   /*red*/ 
+    color: #D04E3B ;
+  margin-bottom: 21px;
+  xxxletter-spacing: 1px;
+}
+h3 {
+  font-weight: normal;
+  font-size: 20px;
+  color: #222;
+  margin-bottom: 21px;
+}
+h4 {
+  color: #CF4C3C;
+  font-weight: normal;
+}
+p {
+  margin-bottom: 20px;
+}
+
+

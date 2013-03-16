@@ -1,0 +1,68 @@
+title:One-Time Gifts
+
+
+----
+
+maincolumn1:
+<div class="intro"><p>Help Global Strategies provide life-saving healthcare to women and children who need it most by making 
+		<br>a tax-deductible gift today.</p></div>
+
+<!-- ##Gift Information
+(image:form1time-giftinfo.png class:etapcomp)
+##Contact Information
+(image:form-contactinfo.png class:etapcomp)
+##Payment Information
+(image:form-paymentinfo.png class:etapcomp)
+##Additional Information -->
+(image:submit-btn.png link:https://app.etapestry.com/hosted/GlobalStrategiesforHIVPrev/OnlineGiving-preview.html)
+
+<div class="intro"><p>Your Support in Action</p></div>
+
+<ul class="supportinaction">
+	<li><span>$20</span> can provide antibiotics for an HIV positive mom and her baby to prevent infections such as pneumonia and meningitis.</li> 
+	
+	<li><span>$50</span> can provide transportation for a community health worker to visit families in need.</li>
+
+	
+	<li><span>$100</span> can provide early infant HIV diagnostic testing leading to life-saving treatment.</li>
+
+	
+	<li><span>$300</span> can provide an on-site certification course in neonatal resuscitation taught by local nurses.</li>
+
+	
+	<li><span>$1,000</span> can allow a local nurse to become a clinical mentor to other nurses by providing for transportation and partial salary support.</li>
+</ul>
+
+**Questions About One-time Gifts?**
+
+<i class="icon-phone"  style="display:inline-block;width:30px;"></i> (415) 451-1814
+<i class="icon-envelope" style="display:inline-block;width:30px;"></i>(email:giving@globalstrategies.org)
+<i class="icon-question-sign" style="display:inline-block;width:30px;"></i> (link:give/giving-faqs text:Have questions about giving? )
+
+
+----
+
+maincolumn2:
+
+
+
+(image:rightcolimage.png class:shadow)
+
+Please consider supporting our work for women and children all year long. Become a Hope Partner and your gift will automatically repeat every month. 
+(link:give/hope-partners text:Click here to set up your monthly donation today.) 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

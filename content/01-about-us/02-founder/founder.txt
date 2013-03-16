@@ -1,0 +1,21 @@
+﻿Title: Founder
+
+----
+
+Text: 
+
+Dr. Arthur Ammann's career has spanned many fields including physician, researcher, activist, philanthropist and clinical professor at the University of California, San Francisco Medical Center.
+
+Early in his 40-year medical career, Dr. Ammann discovered several new diseases and performed the clinical trials that resulted in FDA approval of the first pneumococcal vaccine which prevented bacterial pneumonia and meningitis. That discovery has saved millions of lives, especially of children and the elderly.
+
+In 1982, Dr. Ammann described two of the three ways that HIV is transmitted, including the first cases of transmission of AIDS from mother to infant and the first blood transfusion associated AIDS patients. 
+
+Dr. Ammann has been featured in media outlets from Time Magazine to Frontline. He has authored over 450 scientific papers and book chapters. In addition to delivering national lectures and courses on immunology and HIV/AIDS, Dr. Ammann has taught in Africa, Asia, and South America. He has served with many organizations including the National Institutes of Health Advisory Committees, Congressional Testimony on AIDS and children, AIDS Planning Committee of the Institute of Medicine of the National Academy of Sciences.
+
+Dr. Ammann has  received honors from more than 60 national and international organizations including the U.S. Surgeon General Award for Research, the U.S. Public Health Service Fellowship Award and the Heroes in Medicine Award by the International Association of Physicians in AIDS Care.
+
+He holds a BS in biology from Wheaton College and an MD from New Jersey College of Medicine. Dr. Ammann completed his residency at UCSF and a fellowship in immunology at the University of Minnesota Medical Center and the University of Wisconsin Medical Center.
+
+----
+
+rightcolumn: (image:arthur_ammann.jpg width:200)

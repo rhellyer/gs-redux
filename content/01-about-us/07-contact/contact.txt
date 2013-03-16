@@ -1,0 +1,21 @@
+﻿Title: Contact Us
+
+----
+
+annotation:
+
+This page still needs to be created
+
+----
+
+Text: 
+
+Basic Contact Information
+
+- address
+- phone and fax number(s)
+- email
+- twitter / facebook
+- emails for key functions/people (eg. Josh, giving, newsletter etc)
+- possibly sign up form for newsletter / inquiry form?
+

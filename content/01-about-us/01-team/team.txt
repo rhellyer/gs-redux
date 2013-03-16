@@ -1,0 +1,102 @@
+
+Title: Our Team
+
+----
+
+Team:
+
+Joshua Bress, MD:
+  role: President
+  bio:   (image:joshua.jpg class:floatleft)Joshua is a pediatrician whose primary focus is the care of neonates.  He graduated from medical school at Vanderbilt University in 2007 and completed his pediatric residency at the University of California San Francisco.  From 2011-2012 he worked with Global Strategies in the Eastern Congo &mdash; continuing our efforts in Pediatric HIV and prevention of HIV transmission from mother to child while expanding into areas of neonatology and severe malnutrition.  His passion is to improve the quality of Global Health care by building long-term relationships with people who take care of patients thousands of miles away. 
+
+Sloane Drake:
+  role: Operations Manager   
+  bio: (image:sloane.jpg class:floatleft) Sloane Drake, grew up in British Columbia, Canada, and fell in love with the Bay Area after visiting family as a young adult. Following her move to Marin County in 1985, she began her career in accounting and office management. While Sloane’s career has primarily focused on working with small, growing companies to implement accounting and management systems, she spent four years managing a medical equipment company in Mill Valley. Her passion for community service lead her to seek out volunteer work with local nonprofits and eventually her professional career transitioned to nonprofit operations. She has been married for 23 years and has a son and a daughter in college.
+
+Cindy McWhorter:
+  role: Director of International Programs
+  bio:
+
+Jennifer Parson:
+  role: Director of Global Health Nursing
+  bio:
+
+----
+
+Board:
+
+Arthur J Ammann, MD:
+  role: Founder
+  bio: (image:arthur.jpg class:floatleft)Dr. Ammann has a long and distinguished career in pediatric immunology and infectious disease (See “(link:about-us/founder text:Founder)” for more details).  In 1977 he performed the clinical trials that led to the first approval for a  pneumococcal vaccine. In 1982, Dr. Ammann described two of the three ways that HIV is transmitted.  In 1998, he founded Global Strategies for HIV Prevention, which became Global Strategies in 2013.  He has authored or co-authored over 450 scientific papers and given over 700 international lectures and courses on HIV/AIDS.  He is a Clinical Professor of Pediatrics at the University of California, San Francisco.
+
+William Clark, MDiv:
+  role: Chairman
+  bio: Bill was formerly a member of the Oklahoma State Legislature from 1982 to 1988.  He served as Minority Caucus Chair during the last of his three terms.  Bill is currently the Executive Pastor of Ministry at Christ Church of Oakbrook in Illinois.
+  
+Ed Middendorf:
+  role: Secretary/Treasurer
+  bio: Ed has had 35 years of financial and business planning experience.  Through the Middendorf Company and New York Life he provided life insurance estate and business planning. He is a long-term resident of Marin County, where he has been active in industry and community affairs and volunteer activities.
+
+Anne-Marie Duliege, MD:
+  role:
+  bio: Anne-Marie has a MS degree in epidemiology from Harvard school of Public Health, and a MS degree in biostatistics, doctorate in medicine and certification in pediatrics from Paris hospitals. Dr. Duliege is Chief Medical Officer at Affymax, Inc. a biopharmaceutical company and a clinical assistant professor at the Lucile Packard Children’s Hospital at Stanford.
+
+
+Elizabeth Fleming, MBA:
+  role:
+  bio: Elizabeth holds an MBA from Harvard Business School and currently is Chief of Staff and executive director of an internal strategy and business development consulting team for the Group Practice Division of Group Health in Seattle, WA. She has extensive experience working in and alongside successful non-profits in the Seattle area.
+  
+Kerry Gough, JD:
+  role:
+  bio: Kerry is a graduate of the University of California Berkeley Law School.  Following graduation he worked for the United States Department of Justice, civil rights division in the Attorney Generals Honors Graduate Program. In the Civil Rights era, he worked with the NAACP Legal Defense Fund in Mississippi.
+
+
+Andrea Marmor, MD:
+  role:
+  bio: Andrea is an academic pediatric hospitalist at San Francisco General Hospital, and teaches at University of California, San Francisco’s School of Medicine.  She has a Masters in medical education.
+
+Ted Ruel, MD:
+  role:
+  bio: Dr. Ruel co-founded IPOP (The International Pediatric Outreach Project, which merged to become Global Strategies) with Sadath Sayeed in 2002, while completing his training in pediatrics at the University of California, San Francisco.  He went on to pursue training in pediatric infectious disease and joined the faculty in 2009.  He attends on the pediatric infectious disease clinical service and performs patient-based translational research of HIV-infection and malaria in African children.
+
+
+Sadath Sayeed, JD, MD:
+  role:
+  bio: Dr. Sayeed co-founded IPOP with Ted Ruel in 2002. He is currently an Assistant Professor of Global Health, Social Medicine & Pediatrics at Harvard Medical School where he also serves as Director of the Program in Newborn Health and Social Change. He is a staff neonatologist at Children’s Hospital Boston and Program Director for the Responsible Conduct of Research at Harvard Medical School.
+
+Haynes Sheppard, Ph.D.:
+  role:
+  bio: Haynes “Chip” Sheppard recently completed a long career as a public health research scientist, including AIDS research, HIV vaccine development, infectious disease diagnostics, and international laboratory development.  He currently works with several non-profits to bring high-quality, low-cost laboratory capability to health facilities in developing countries.
+
+
+Reverend Paul Tshihamba MDiv:
+  role:
+  bio: Paul holds a Master of Divinity from Fuller Seminary and he served as Associate Pastor of Missions at First Presbyterian Church Berkeley. Currently, he is Pastor of Missions at Christ Presbyterian Church (PCUSA) in Edina, Minnesota and is a native of the Democratic Republic of Congo.
+ 
+
+Craig Waldman, JD:
+  role:
+  bio: Craig is a partner at Jones Day, adjunct professor at Hastings Law School and has lectured at Stanford Business School and Foothill College. 
+
+David Wanderman, MD:
+  role:
+  bio: David is currently an independent healthcare consultant for hospital, healthcare operations.  David previously held positions with McKinsey & Company, University of California San Francisco Medical Center, and Kaiser Permanente.
+
+
+
+
+----
+
+supporters:
+Global Strategies supporters show their commitment to improving the lives of women and children by supporting our work through funds, supply donations and offering their expertise.
+
+(link:about-us/supporters text:› See Details of Our Supporters)
+
+----
+regional_partners:
+
+(link:our-work/regional-partners text:› Read About Our Regional Partners)
+
+
+
+

@@ -1,0 +1,38 @@
+title:Our History
+----
+text:
+In 1981 (link:about-us/founder text:Dr. Arthur J. Ammann) described two of the three ways that HIV is transmitted, as a result of caring for infants with what appeared to be a new immunodeficiency disorder called AIDS.  This disorder, caused by the human immunodeficiency virus (HIV), took millions of lives worldwide. In 1999, Dr. Ammann founded Global Strategies for HIV Prevention to address the inequity of HIV prevention services provided around the world.   
+
+The early years focused on international workshops to provide accurate and up-to-date information to those on the frontlines of HIV prevention and treatment.  As momentum increased, the organization began to work with indigenous leaders of resource poor countries to establish model programs in HIV prevention and care.  These programs included addressing Prevention of Mother to Child Transmission of HIV (PMTCT), Pediatric HIV, and Post-exposure Prophylaxis (PEP) for victims of sexual violence.
+
+From 2001 to 2009 Global Strategies for HIV Prevention co-initiated model HIV programs and trainings with implementing partners in the Dominican Republic, Nigeria, Democratic Republic of the Congo, and Liberia. [Link to regional portfolios – use content from old GS site for DR and Nigeria] Each model was unique to its regional context and addressed needs identified by the field partners.  In addition, Global Strategies for HIV Prevention engaged American communities through Hope Walks events to rally support for programs addressing the health and educational needs of orphans and vulnerable children (OVC) in seven different countries. 
+
+Working in the Democratic Republic of the Congo, Global Strategies for HIV Prevention began to collaborate with the International Pediatric Outreach Project (IPOP). Founded in 2002 by Theodore Ruel, M.D. and Sadath Sayeed, M.D., J.D., IPOP's mission was to improve the health of children in under-resourced communities across the globe. IPOP had established hospital nursery projects, rehabilitation initiatives, schools health programs and scholarships for healthcare professionals. In many instances, the groups teamed up to care for individual children. This partnership led to a greater understanding of the complex problems that affected our implementing partners.
+
+In 2013 Global Strategies for HIV Prevention and IPOP merged. Today, as Global Strategies, we work with field partners in the Democratic Republic of the Congo, Liberia, India and Zimbabwe. At each project site, we work with communities to develop capacity and infrastructure by addressing education and training opportunities in HIV prevention, neonatal care and rehabilitation for life-threatening injuries and congenital disabilities.
+
+----
+rightcolumn:
+
+<div style="margin-left:80px">
+	
+		(image:01-history.jpg)
+		(image:02-history.jpg)
+		(image:03-history.jpg)
+		(image:04-history.jpg)
+		(image:05-history.jpg)
+		(image:06-history.jpg)
+		(image:07-history.jpg)
+		(image:08-history.jpg)
+		(image:09-history.jpg)
+		(image:10-history.jpg)
+		(image:11-history.jpg)
+		(image:12-history.jpg)
+		(image:13-history.jpg)
+		
+		
+		<!-- <p><br>
+			<a href="http://www.flickr.com/photos/globalstrategies/sets/" target="_blank">
+				(image:assets/images/flickr.png) Check Out Our Flickr Gallery</a>
+		</p> -->
+</div>

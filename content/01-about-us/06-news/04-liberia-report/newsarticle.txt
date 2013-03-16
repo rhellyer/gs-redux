@@ -1,0 +1,30 @@
+﻿Title: Liberia Site Visit
+
+----
+
+Date: Feb 26th, 2013
+
+
+----
+
+Intro: "How do you impact the care of newborns thousands of miles away?" With one of the highest infant mortaility rates, Liberians are eager to improve the health of their children.
+
+----
+
+Text: 
+
+(image:article.jpg width:200 class:floatright) Cindy, Joshua, Jen and Dr. Givano, along with Global Strategies volunteers Tony and Shelly, recently returned from a visit to Monrovia, Liberia.  Global Strategies has worked in Liberia for 8 years and returned this time to look into ways to lower Liberia's infant mortality rate.  The most recent data shows that Liberia has one of the highest infant (under 1 year old) mortality rates at 74/1000.  Liberians are eager to improve the health of their children and we met with many potential partners.
+
+How do you impact the care of newborns thousands of miles away?  This is a question that Global Strategies is hard at work to answer.  
+
+The first step is shoulder-to-shoulder mentoring to teach providers the critical hands-on skills needed to care for newborns--neonatal resuscitation, feeding of infants, appropriate use of antibiotics to reat infection.  
+
+(image:metrodigi.jpg width:200 class:floatright)But what happens after that step to maintain quality?  Global Strategies, in partnership with (link:http://metrodigi.com/blog/64-ebooks-against-aids-liberia-update text:Bay Area company Metrodigi target:_blank), is working to find an innovative solution.  Using technology to create case-based learning, remote monitoring and clinical applications, Global Strategies aims to change the way healthcare workers learn how to care for babies.  
+
+----
+
+leftcolumn: 
+----
+rightcolumn: (link:about-us/news text:View All Articles »)
+----
+thumbnail: (image:article.jpg width:100%)

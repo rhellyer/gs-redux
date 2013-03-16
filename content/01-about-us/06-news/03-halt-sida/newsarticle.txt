@@ -1,0 +1,24 @@
+﻿Title: Halt SIDA
+
+----
+
+Date: Feb 15th, 2013
+
+----
+
+thumbnail: (image:article.jpg width:100%)
+
+----
+
+Intro: We work with amazing local partners on the ground in Eastern Congo - one of those is Halt SIDA. By working with them we are planning the next steps to address the prevelance of HIV in professional sex workers in Eastern Congo.
+----
+
+Text: 
+ (image:article.jpg width:250 class:floatright)Global Strategies works with amazing local partners on the ground in Eastern Congo.  One of those partners is Halt SIDA (translated "Stop AIDS").  Halt SIDA is a local NGO located in Bukavu, a large city in the Eastern Democratic Republic of the Congo, that works to stop the spread of HIV through education and voluntary testing and counseling.  
+
+ Dr. Givano Kashemwa leads our work in this region. Working together with him and analyzing the data, Global Strategies became concerned that HIV in Bukavu, which lies on the border with Rwanda, had pockets of high prevalence that were going undetected.  Specifically, we were concerned that little was being done to look into the HIV prevalence among professional sex workers.
+Halt SIDA got to work immediately.  They visited with professional sex workers, getting permission from the bars where they work, to begin to test women and their partners.  Sadly, our hypothesis was confirmed.  Testing 237 women, Halt SIDA and Dr. Givano discovered an HIV prevalence of 9%--nearly 35 times the prevalence identified in some of the rural areas in the South Kivu province.  Additionally, HIV was not the only health issue identified.  Routine violence, abuse of the children of sex workers by their clients, and sexually transmitted infections are all part of the daily life of these women.  Halt SIDA, with support from Global Strategies, provided the women with a renewable supply of condoms, referred HIV positive women to care and sat with the women providing education about preventing HIV.  
+
+Now Global Strategies, working with Dr. Givano and Halt SIDA, is planning the next steps to address this health issue.  
+----
+rightcolumn:

@@ -1,0 +1,624 @@
+
+/* ============ HELPER STYLES ====================*/
+
+.clear {clear:both;}
+
+/* ============ NEWS ARTICLE STYLES ============== */
+
+.newsarticle { 
+  border-bottom:1px dotted #ccc; 
+  margin-bottom:20px;
+}
+.newsarticledate  {
+  margin-top: -20px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+.newsarticle .thumbnail {width:80px;}
+
+.newsarticle .readmore { display:block; margin-top:-1em;}
+
+
+/* ========= article styling ========= */
+
+a.readmore, a.readmoreq { color:#5089B6; color:#CF4C3C; font-weight:normal;}
+a.readmoreq:before {content:'\00bb\0020'}
+
+.inlineheading { text-transform: uppercase; font-weight: 600; display:inline-block; margin-right: 10px;}
+
+/* ========= layout ========= */
+
+.wrapper {
+    width: 960px;
+  margin: 0 auto ;
+  position: relative; 
+  
+}
+.wrapper.maincontent {
+  margin-top: 20px; 
+  margin-bottom:20px;
+  position:relative;
+}
+
+.wrapperwide.pre-header {background:#fff; height:30px;}
+.wrapperwide.header {
+background: hsl(47, 79%, 87%);
+height: 100px;
+padding-top: 10px;
+border-top: 1px hsl(46, 32%, 80%) solid;
+border-bottom: 1px hsl(47, 32%, 80%) solid;
+}
+.wrapperwide.footer     {
+  background:#f8ecc2; 
+  height:30px;
+border-top: 1px hsl(46, 32%, 80%) solid;
+border-bottom: 1px hsl(47, 32%, 80%) solid;
+}
+
+.pre-header img.placeholder {
+  margin-top:10px;
+  float:right;
+}
+
+
+ .header {
+    position:relative;
+ }
+ 
+ img.logo {
+margin-left: -15px;
+margin-top: 0;
+}
+ img.logotext {
+  margin-left:20px;
+  position: relative;
+  top: -16px;
+ }
+ 
+ .donation-form .logotext img {
+ margin-top: 20px;
+ margin-left: 0
+ }
+
+.content {
+  min-height: 200px;
+  margin-top: 0;
+
+}
+.homepage .content {
+    width: 100%;
+}
+.homepagebanner {
+    margin: 5px 0
+}
+.footer {
+   min-height: 20px;
+}
+.footer a {
+  color: #CF4C3C;
+}
+.footer a:hover {
+  color: #222;
+}
+
+img.floatright { float:right; margin:20px 0 0 20px;}
+img.floatleft{ float:left; margin:20px 20px 20px 0;}
+
+/* ===========  detailesd styleing ============ */
+
+.homepage .title {display:none;}
+.hometopfeature { display:none;}
+.homepage .hometopfeature {
+display: block;
+position: absolute;
+right: 30px;
+top: 22px;
+}
+.homepage .hometopfeature:hover {opacity: .5;}
+.homepage .features {margin-top:20px; font-size:14px; line-height: 18px;}
+
+.homepage .features .floatleft { margin:0 10px 0 0;}
+
+.featureright {padding-left:50px;}
+.featurecenter p , .featureright p{
+font-size: 12px;
+line-height: 15px;
+}
+.featurecenter img {
+margin-top: 4px;
+width: 80px;
+margin-left: -20px;
+}
+
+.featurecenter h3, .featureright h3 {
+font-size: 14px;
+line-height: 21px;
+margin: 0;
+font-weight: 600;
+}
+
+.featurecenter h3 a , .featureright h3 a{
+color: hsl(0, 0%, 20%);
+font-weight: 600;
+
+}
+.featurecenter h3 a:hover, .featureright h3 a:hover {
+  color:red;
+}
+
+.featureright p { margin: 4px 0;}
+.featureright .address {margin:0 0 10px 0;}
+.featureright .phone {margin:10px 0 20px;}
+
+/* ========== helpers =========== */
+
+.clearfix:before,
+.clearfix:after {
+    content:"";
+    display:table;
+}
+.clearfix:after {
+    clear:both;
+}
+/* For IE 6/7 (trigger hasLayout) */
+.clearfix {
+    zoom:1;
+}
+
+/* ========================= */
+
+
+
+.tree-menu ul {
+    list-style:none;
+    margin:0;
+}
+.tree-menu > ul > li > ul,
+.tree-menu > ul > li > ul li > ul
+ {display:none;}
+ 
+/* .tree-menu > ul > li:hover > ul { 
+    display:block;
+} */
+.tree-menu > ul > li:hover { 
+    background: hsl(0, 0%, 85%);
+}
+
+.tree-menu a { 
+    display:block;
+ }
+.tree-menu > ul > li {
+    position: relative;
+    display: block;
+    float: right;
+    margin-left: 10px;
+    padding: 3px 3px 0;
+    padding-bottom: 5px;
+    background: hsl(0, 0%, 80%);
+    min-width: 70px;
+    text-align: center;
+    border-radius: 0 0 5px 5px;
+    font-size: 14px;
+    font-family: piron;
+    text-transform:lowercase;
+    height:25px;
+}
+.tree-menu > ul > li a{
+     padding: 0 10px;
+}
+.tree-menu > ul > li > ul {
+text-align: left;
+position:absolute;
+background: hsl(0, 0%, 85%);
+padding-left: 10px;
+left:0px;
+min-width: 180px;
+padding-bottom:10px;
+border-radius: 0 6px 6px;
+line-height: 1.9em;
+}
+
+.tree-menu > ul.inbanner  > li {
+    border-radius: 5px 5px 0 0 ;
+    top: -34px;
+}
+
+.givebutton {
+background: #DD5A48;
+border-radius: 2px;
+color: white;
+padding: 5px 10px;
+text-align: center;
+width: 180px;
+margin: 40px auto;
+display: block;
+}
+.givebutton:hover { color:white; opacity:.9;}
+
+
+
+
+.givemodule, .module {
+box-sizing: border-box;
+padding:20px;
+border-radius:10px;
+position:relative;
+    border:1px solid #ccc;
+ }
+ .givemodule {
+height:200px;
+ }
+ .givemodule .readmore {
+    position:absolute;
+    bottom:10px;
+    right:20px;
+ }
+
+ /*One time gift page*/
+
+ ul.supportinaction, ul.hopeinaction {
+  list-style: none;
+  margin-left: 0;
+ }
+ ul.supportinaction li, ul.hopeinaction li {
+  margin-bottom:1em;
+ }
+ul.supportinaction li span {
+font-size: 1.4em;
+display: inline-block;
+margin-right: 3px;
+}
+ul.hopeinaction li {
+  padding-left:40px;
+}
+ul.hopeinaction li span {
+  display: block;
+  float: left;
+  margin-left: -40px;
+  margin-top:5px;
+}
+
+.hopepartnersintrotext {
+padding-left: 160px;
+padding-right: 10px;
+}
+.hopepartnersintrotext img {
+  float:left;
+  margin-left:-180px;
+  margin-top: 10px;
+}
+
+.etapcomp {
+margin-top: -15px;
+margin-left: -16px;
+}
+
+ #tabs>ul {
+    list-style:none;
+    margin-left:10px;
+    height:200px;
+    margin-bottom:60px;
+ }
+ #tabs>ul img {
+ margin-right: 0;
+width: 176px;
+height: auto;
+transition: width .5s;
+-moz-transition: width .5s;
+-webkit-transition: width .5s;
+-o-transition: width .5s;
+border: 3px solid white;
+padding-bottom:10px;]
+ }
+ #tabs>ul img:hover { 
+    border-bottom-color:#518AB7;
+ }
+ 
+ #tabs>ul li { float:left; }
+ 
+ /* ====================================== */
+
+
+ .col {
+    width:104px; 
+    float:left; 
+}
+.col img { 
+    display:block; 
+}
+ .col .button { 
+    height: 246px; 
+    height: 226px; 
+    width:104px; 
+    position:relative;
+    float:left;
+    border-radius: 6px;
+}
+.col .button span {
+font-family: myriad-pro, helvetica, arial, sans-serif;
+color: white;
+display: block;
+font-size: 15px;
+padding: 10px 14px;
+text-transform: uppercase;
+line-height: 18px;
+}
+.col .button span {
+font-family: myriad-pro-condensed, helvetica, arial, sans-serif;
+color: hsl(0, 0%, 92%);
+display: block;
+font-size: 22px;
+padding: 10px 14px;
+text-transform: uppercase;
+line-height: 22px;
+font-weight: 600;
+}
+/*
+.col .button.give  span { position:absolute; bottom:0; right:0; }
+.col .button.work  span { position:absolute; top:0; left:0; }
+.col .button.about span { position:absolute; bottom:0; left:0; }
+.col .button.give  { background:#E65540; margin-top: -10px; }
+.col .button.work  { background:#528BB8; top:-28px; }
+.col .button.about { background:#94C3A1 ; margin-top:-10px; }
+.col .button:hover {opacity:.9; }
+*/
+.col .button.give  span { position:absolute;  top:84px; left:0; }
+.col .button.work  span { position:absolute; top:84px; left:0; }
+.col .button.about span { position:absolute; top:84px; left:0; }
+.col .button.give  { background:#E65540; margin-top: -10px; }
+.col .button.work  { background:#528BB8;  margin-top: -10px; }
+.col .button.about { background:#94C3A1 ; margin-top:-10px; }
+
+.col .button:hover {
+  opacity:.9; 
+}
+.col .button:hover span {
+  color:black;
+}
+
+
+  /*our work - prevention and care */
+
+.bannerlinks img {border:0; margin:0 10px; padding:0; float:left; width:165px;}
+.bannerlinks-education img { margin: 0 10px; width:auto;}
+
+.bannerlinks {margin-bottom:20px;}
+
+
+
+/*search form*/
+
+.search form { margin-bottom:20px;}
+
+.search form input[type=text] {
+  width: 400px;
+  padding: 5px;
+  margin-right: 10px;
+  font-family: myriad-pro, helvetica, arial, sans-serif;
+  font-size: 16px;
+}
+.search form input[type=submit] {
+  padding: 5px 20px;
+  line-height: 15px;
+  background: hsl(7, 65%, 55%);
+  border: hsl(7, 65%, 55%);
+  color: white;
+  font-weight: 500;
+  font-family: myriad-pro, helvetica, sans-serif;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.search li {
+  list-style: none;
+  border-bottom: 1px solid #eee;
+  padding: 10px 0;
+}
+.search a {
+  border: none;
+  color: #777;
+}
+.search a:hover {
+  color: #D3513E;
+}
+.search li strong {
+  display: block;
+}
+.search li strong a {
+  color: #222;
+} 
+.search .no-results {
+  margin-top: 20px;
+}
+
+
+
+/* drop down search box */
+
+.searchtrigger { 
+  
+  cursor:pointer;
+}
+.searchclose {
+position: absolute;
+top: 0px;
+right: 6px;
+cursor: pointer;
+color: #fff;
+
+}
+.searchbox {
+  position: absolute;
+  top: 32px;
+  right: 20px;
+  z-index: 1000;
+  background-color: #5D99C7;
+  border: 1px solid white;
+  border-radius: 6px;
+  padding: 20px 26px;
+  display: none;
+}
+.searchbox input[type=search] {
+  width:250px;
+  padding:8px;
+}
+
+/*social buttons*/
+.pre-header .sociallinks
+ {
+font-size: 19px;
+color:hsl(0, 0%, 80%);
+float: right;
+line-height: 30px;
+letter-spacing: 4px;
+}
+
+.pre-header .sociallinks a { color:hsl(0, 0%, 80%);}
+
+.pre-header .sociallinks i:hover {
+  color:black;
+  text-decoration: none;
+} 
+
+.pre-header .sociallinks .twitter { color:#00BEF6;}
+.pre-header .sociallinks .facebook { color:#3B5998;}
+
+/*give page stling*/
+
+.give h2 {
+color: black;
+font-size: 23px;
+padding: 10px 0;
+border: 1px solid hsl(0, 0%, 87%);
+border-width: 1px 0;
+}
+
+.give img.button {
+  box-shadow:4px 4px 8px #ccc;
+}
+.give img.button:hover { box-shadow:4px 4px 12px #aaa;}
+.give .under-button { margin-top: 10px; text-align: center;}
+
+ /*adding an intro paragraph style*/
+
+ .intro {
+  font-size: 1.4em;
+line-height: 1.3em;
+font-style: italic;
+font-weight: normal;
+ }
+
+ .annotation { font-size:.8em; line-height: 1.2em; font-style:italicX;}
+ .shadow { box-shadow: 4px 4px 8px hsl(0, 0%, 67%);}
+
+ /*about page sidbar*/
+
+ .about .sidebar p{
+  font-size: 12px;
+  line-height: 18px;
+  padding: 10px;
+ background: hsla(22, 12%, 36%, .5);
+  color:white;
+  margin-top:0;
+  display:none;
+ }
+ .about .sidebar div {
+  float: left;
+ }
+
+ .diagnostics {
+   font-family: monospace;
+   color:red;
+   margin-top:40px;
+   font-size:10px;
+   display:block;
+   display: none;
+ }
+ .diagnostics ul {list-style: none;}
+ .diagnostics li {display:inline-block;}
+ .diagnostics li:after {content:'; ';}
+
+/*show and hide bios*/
+.about-bios {list-style: none; margin:0;}
+.about-bios li {margin-bottom: 20px;}
+.about-bios .bio { display:none; padding:10px; font-size: 14px;}
+.about-bios .showbio .bio { display:block; }
+
+.about-bios .name {font-weight:600; font-size:1.2em; cursor:pointer;}
+.about-bios .role {font-style:italic;}
+
+.about-bios .biotrigger {
+display: inline-block;
+font-weight: 600;
+
+}
+.about-bios .biotrigger a:hover { text-decoration: none; color:black;}
+
+.field-reports h2 { margin-bottom:0;}
+.field-reports .instructions {font-size:12px; font-style: italic; text-align: right;}
+.field-reports .byline {font-size:14px; color:#666; }
+.field-reports .article {margin-bottom:20px;}
+
+.field-reports .image {
+  float: left;
+  margin-right: 20px;
+  
+  padding: 10px;
+  border: 1px solid hsl(0, 0%, 90%);
+  background:white;
+}
+.field-reports .image:hover {background: hsl(0, 0%, 90%);}
+
+.field-reports .caption { font-size: 14px; line-height: 20px; width: 280px;float: left;}
+
+.regional-partners .article h2 {
+  background: hsl(206, 41%, 49%);
+  color: white;
+  text-align: center;
+  height: 40px;
+  display: table-cell;
+  width: 300px;
+  vertical-align: middle;
+  border-radius: 5px 5px 0 0;
+  font-size: 18px;
+  line-height: 20px;
+  padding: 9px 10px;
+  border-bottom: 1px solid hsla(0, 0%, 27%, .3);
+  position:relative;
+}
+
+.regional-partners .article h2:before {
+  content:'';
+  height: 27px;
+  width: 29px;
+  background:url(../images/person-white.png) no-repeat ;
+  position:absolute;
+  left:10px; 
+  top: 15px;
+  opacity:.6;
+
+}
+
+.whoweare {
+  list-style: none;
+  margin: 0;
+  margin-bottom: 20px;
+}
+.whoweare li {
+  margin-bottom:10px;
+}
+.whoweare li span {
+position: relative;
+top: 8px;
+margin-right: 10px;
+}
+
+img.shadow {
+  box-shadow: 4px 4px 8px hsl(0, 0%, 67%);
+}
+
+.fixedwidthicon {
+  display: inline-block !important;
+  width: 1.5em !important;
+}

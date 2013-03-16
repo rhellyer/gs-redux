@@ -1,0 +1,5 @@
+# Global Strategies Redux
+
+A reworking of the Global Strategies .org website: <http://globalstrategies.org>
+
+

@@ -1,0 +1,61 @@
+title: Other Ways to Give
+----
+
+maincolumn3: 
+
+###<i class="icon-tablet icon-1x"></i>  Online
+
+Securely donate online - make a one-time gift, or become a Hope Partner with a monthly or annually recurring donation.
+
+(image:assets/images/givetoday-btn.jpg link:give/one-time-gift)
+
+(image:assets/images/hopepartners-btn.jpg link:give/hope-partners)
+
+
+
+----
+maincolumn2:
+
+###<i class="icon-edit icon-1x"></i> Mail
+
+Please make checks payable to 
+Global Strategies and send to:
+
+>  _Global Strategies_
+>  _828 San Pablo Avenue, Suite 260_
+>  _Albany, CA 94706_
+
+
+
+###<i class="icon-phone icon-1x"></i> Phone
+
+Please call our office at 
+(415) 451-1814
+
+
+###<i class="icon-envelope icon-1x"></i> Email
+
+Email us at:
+(email:giving@globalstrategies.org)
+
+
+
+
+----
+maincolumn1:
+
+###Assets
+
+We would love to discuss with you how we can help you accomplish your philanthropic goals and accept gifts of stock or real estate and bequests through your estate.
+
+Please call or email us and we can discuss your options. 
+
+###In-Kind
+
+We are grateful to receive in-kind gifts when they are appropriate for carrying out our mission. 
+
+Please contact our office to discuss your potential in-kind gift. 
+
+
+
+----

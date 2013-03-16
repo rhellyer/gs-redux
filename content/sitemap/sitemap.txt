@@ -1,0 +1,79 @@
+﻿Title: Site Map
+
+----
+
+Text: 
+
+###Home Page
+
+> _comp for splash page
+> increase logo size
+> add tagline, strapline, intro para
+> 2 word 'give' ... give today?
+> replace bw photos
+> add effect for bw photos (eg. rollover to color / clickable to section)
+> real link for email list
+> better hover effects : main buttons, 'give today'
+> real social buttons
+> implement search (later?) with popup or expand effect
+> possible extra links in header 
+> what should be in footer ? extra links? nothing?
+> border top / bottom on wide banner and footer
+> click through on news items
+> buttons better centering, some gradatinos?
+> popup title effect on hovering over logo since no 'home' button_
+
+###About Us
+- Mission
+   - _what to do for team photo (there was a composite photo ?)_
+   - _add latest news button_
+   - _add 'contact' button_
+   - _don't need sign up button_
+   - _what is the best order for the menu items?_
+- Our Team
+   - _need a better layout_
+   - _do we have photos?_
+- Founder
+   - _this page is OK broadly_
+- Leadership
+   - _what is the right title ? leadership / board etc_
+- Partners
+   - _this currently redirects to the regional portfolios page - we will need to change that going forward_
+- News
+   - Halt SIDA
+   - Liberia Site Visit
+   - _add other news items from old site_
+- Contact Us
+   - _add basic contact information here_
+
+###Our Work
+- Prevention & Care
+_should we also add a link to e&t and public issues?_
+_correct the 'title' popups to be real for the image links_
+   - Mother to Child HV Transmission
+   - prevention-care
+   - Postexposure Propphylaxis
+   - Advancing Baby Care
+   - Pediatric HIV
+   - Rehabilitation
+- Education & Training
+_are these the right categories?_
+_improve the layout of the photos_
+_add more apropriate photos for the categories_
+   - Healthcare Workers	
+   - Rehabilitation
+   - Community leader training
+Community
+education-training
+Public Issue Advocacy
+education-training
+Regional Portfolios
+DRC
+education-training
+India
+Liberia
+Zimbabwe
+Matching Gifts
+Ways to Give
+Frequently Asked Questions
+The Impact of Your Gift

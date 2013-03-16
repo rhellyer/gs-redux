@@ -1,0 +1,3 @@
+title: splash page
+----
+text: (image:splash.jpg link:home1 )

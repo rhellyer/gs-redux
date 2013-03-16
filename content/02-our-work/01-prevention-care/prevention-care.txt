@@ -1,0 +1,78 @@
+﻿Title: Prevention & Care
+
+----
+
+Text_title: ##from the first breaths of life
+
+----
+
+Text:
+
+We provide critical services during labor and delivery, comprehensive baby care, HIV prevention, and rehabilitation for life-threatening needs. 
+Our services are tailored to the context and demonstrated needs of the field partner and their patient population.
+
+----
+
+bannerlinks: <a href="#pmtct" class="fancybox">(image:pmtct.png)</a><a href="#prh" class="fancybox">(image:prh.png)</a> <a href="#abc" class="fancybox">(image:abc.png)</a> <a href="#ped" class="fancybox">(image:ped.png)</a> <a href="#rehab" class="fancybox">(image:rehab.png)</a>
+----
+
+article1_title:
+
+##Prevention of Mother to Child HIV Transmission
+
+----
+
+article1_text:
+
+We integrate PMTCT into early infant care using an approach to simultaneously address basic needs in perinatal care and reduce mortality due to HIV transmission.
+Comprehensive PMTCT services include voluntary testing and counseling, referral for antiretroviral medication if indicated, encourage the mother to deliver under the care of a skilled birth attendant with knowledge of HIV and testing the infant for HIV. 
+
+----
+article2_title:
+
+##Post-rape Healthcare
+
+----
+
+article2_text:
+
+We provide our Prévention Pack, a post-rape healthcare regimen to victims of sexual violence that includes Post-Exposure Prophylactic medications (PEP) to prevent HIV infection, treatment for sexually transmitted infections (STI), and non-abortive medication to prevent unwanted pregnancy.  We believe that anyone who has endured a brutal act of sexual violence should not endure secondary repercussions from disease as a result of the trauma.  We prevent the medical consequences of rape by working with experts in the field of sexual violence recovery who refer victims to social and legal services. 
+
+----
+
+article3_title:
+
+##Advancing Baby Care
+
+----
+
+article3_text:
+
+Our frontline healthcare workers deliver care in areas where the mortality of children under one month old can be as high as 1 in 20. Through Advancing Baby Care (ABC) we address the roots of neonatal mortality by providing comprehensive services including neonatal resuscitation, routine baby care, advanced medical care and nutrition services.
+ 
+----	
+
+article4_title:
+
+##Pediatric HIV
+
+----
+
+article4_text:
+
+Our pediatric HIV project is part of our family care model and tightly linked to prevention of mother-to-child HIV services.  Patients receive antiretroviral medications, general healthcare including antibiotics and vaccinations, counseling services and support groups.
+
+Additionally, mothers of HIV positive children are referred to our PMTCT program to give additional children the best chance of being HIV negative. 
+----	
+
+article5_title:
+
+##Rehabilitation
+
+----
+
+article5_text:
+
+By partnering with frontline workers we identify, manage, and prevent common musculoskeletal and neurological impairments which, untreated, can have devastating consequences.  Through physical therapy and rehabilitation, we treat children with extensive traumatic injuries and untreated congenital disabilities. 
+
+----

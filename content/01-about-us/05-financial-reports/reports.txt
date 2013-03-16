@@ -1,0 +1,23 @@
+title: Financial Reports
+----
+
+text: 
+###Annual Reports: 
+
+* (link: FY12AnnReport.pdf text:Annual Report for FY 2012 target:_blank)
+- (link:AnnReportfy10fy11FINALweb.pdf text:Bi-Annual Report for FY 2010 and FY 2011 target:_blank)
+- (link:annualreport2009.pdf text:Annual Report for FY 2009 target:_blank)
+
+###Audited Financial Reports:
+
+- (link:AuditReportFYE83111.pdf text:Audited Financial Statements FY 2011 target:_blank)
+- (link:AuditReportFYE83110.pdf text:Audited Financial Statements FY 2010 target:_blank)
+
+###IRS Reports:
+
+- (link:IRS501c3Letter.pdf text:IRS 501c3 Letter target:_blank)
+- (link:990FYE83111.pdf text:2011 IRS Form 990 target:_blank)
+
+###Google Reports:
+
+- (link: FundingAllocationPlan.pdf text:Google Charitable Giving Fund of Tides target:_blank )

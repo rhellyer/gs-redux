@@ -1,0 +1,160 @@
+/* ========== NAVIGATION ============ */
+
+.navbar {
+  position:relative;
+}
+
+/* ========== MAIN MENU ============ */
+
+.menu { 
+  position:absolute;
+  right:20px;
+  bottom: 16px;
+}
+.homepage .menu { 
+  visibility:hidden;
+}
+.menu ul {
+list-style: none;
+margin: 0;
+padding: 0;
+}
+.menu>ul { margin-top:-40px;}
+.menu li.depth-1 {
+  display:inline-block;
+  float:right;
+  margin-left: 10px;
+}
+.menu > ul > li > a {
+  font-family: myriad-pro, helvetica, arial, sans-serif;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 2px 10px 3px;
+  padding-bottom: 5px;
+  min-width: 70px;
+  text-align: center;
+  border-radius: 5px;
+  line-height: 22px;
+  font-size: 14px;
+  color: white;
+}
+.menu li.depth-3 { 
+  display:none;
+}
+.menu li.depth-1 { 
+  position:relative;
+}
+
+/* this is the drop down menu */
+.menu li.depth-1 > ul {
+  background: hsla(47, 79%, 87%, 0.7);
+  background: hsla(47, 79%, 87%, 1);
+  position: absolute;
+  width:150px;
+  font-size: 14px;
+  line-height: 1.2em;
+  padding-bottom: 10px;
+  border-radius: 0 0 10px;
+  border-radius: 0 10px 10px;
+  box-shadow: 2px 2px 2px hsl(0, 0%, 80%);
+  opacity:0;
+  z-index:10000;
+}
+
+.menu li.depth-1 > ul { visibility: hidden; }
+.menu li.depth-1:hover > ul {
+  display:block; 
+  opacity:1;
+  -webkit-transition: opacity .3s;
+  visibility:visible;
+}
+
+.depth-2 a {
+  color: hsl(0, 0%, 40%);
+  display: block;
+  padding: 6px 10px 6px;
+  padding-right: 20px;
+}
+
+.depth-2 a:hover {
+  text-decoration: none;
+  /*background: hsl(0, 0%, 90%);*/
+  background: hsla(47, 79%, 93%, 1);
+  color: black;
+}
+
+.donation-form .menu a {
+  border-radius: 5px;
+  padding-top: 3px;
+} 
+
+.menu a.menu-give { background:#DD5A48;}
+.menu a.menu-our-work { background:#5089B6;}
+.menu a.menu-about-us { background:#91C09E;}
+
+.menu .depth-1>a:hover {  
+
+  text-decoration:none; }
+
+  /* ========== submenu horizontal ============ */
+
+  .nosubmenu .submenu, .submenu {
+    display: none;
+  }
+  .submenu {
+    padding-top: 4px;
+    text-align: left;
+    position: absolute;
+    width: 129px !important;
+    right: 20px;
+    top: 20px;
+    /*border-left: 1px dotted hsl(0, 0%, 80%);*/
+  }
+
+  .submenu a {
+    font-size:12px;
+    /*margin-left: 13px;*/
+    text-transform: lowercase;
+    display:block;
+  }
+  .nav.submenu.horizontal a:last-child { 
+    margin-left:0;
+  }
+
+  .submenu a.submenu-give { color:#DD5A48;}
+  .submenu a.submenu-our-work { color:#5089B6;}
+  .submenu a.submenu-about-us { color:hsl(137, 27%, 53%);}
+  .submenu a.active {
+    /*border-bottom: 1px dotted;*/
+  }
+
+/*.submenu a:after {
+content: '\203a';
+}*/
+
+
+
+/* ==========  subsubmenu ============ */
+.nav.subsubmenu {
+  display:none;
+  border-top:0;
+  margin-top:-20px;
+}
+
+
+.nav.subsubmenu li a {
+  padding:0 0px;
+  font-weight:normal;
+}
+
+
+
+/* ==========  breadcrumbs ============ */
+.nav.breadcrumb {
+  display:none;
+  font-size:14px;
+  border: 0;
+}
+.nav.breadcrumb a {
+  font-weight: normal;
+}

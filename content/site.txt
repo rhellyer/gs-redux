@@ -1,0 +1,17 @@
+﻿Title: Global Strategies
+
+----
+
+Author: Richard Hellyer
+
+----
+
+Description: Wireframe built with Kirby
+
+----
+
+Keywords: kirby, cms, kirbycms, php, filesystem
+
+----
+
+Copyright: © 2009-(date: Year) (link: http://richardhellyer.com text: Richard Hellyer)

@@ -1,0 +1,71 @@
+﻿Title: Regional Partners
+----
+pageclass: regional-partners
+----
+
+rightcolumn: 
+
+----
+
+maincolumn1:
+
+##HEAL Africa Hospital
+(image:healafrica.jpg)
+_DRC - N Kivu - Goma_
+Our partnership with HEAL Africa began in 2005, allowing us to aid in establishing the first perinatal transmission program in Goma. 
+
+In 2006, we co-founded the Children’s AIDS Program and garnered the support of The Clinton Foundation which provides antiretroviral medication for 400 HIV+ children. 
+
+As a field partner, HEAL Africa has worked with Global Strategies on several projects including, PEP, PMTCT, pediatric HIV, rehabilitation, and Advancing Baby Care.
+
+##Catholic Diocesan Office for Medical Work (BDOM)
+(image:bdom1.jpg)
+_DRC - S Kivu_
+Since 2011 we have partnered with BDOM to implement an “education for life” approach in three areas of the community: health clinics, churches and schools. BDOM is currently delivering HIV services, strengthening healthcare worker education and building capacity within clinics in 20 communities in 4 health zones in South Kivu Province. 
+
+##Community of Pentecostal Churches in Africa  (CELPA)
+(image:celpa1.jpg)
+_DRC - S Kivu_
+Our field partner, CELPA, has an established infrastructure and trained staff and has worked with Global Strategies to develop their technical capabilities and critical supplies and materials to deliver HIV prevention and treatment services, educate healthcare workers and the local community. The project is focused on 20 communities in 5 health zones of South Kivu Province. 
+
+----
+maincolumn2:
+
+##Halt SIDA
+(image:haltsida.jpg)
+_DRC - Bukavu_
+"Halt SIDA" translates to “Stop AIDS,” - they use a peer educator model with particular focus on vulnerable youth to address gender roles, healthy sexuality, family planning, and HIV prevention. Sex and HIV/AIDS education for youth has a dramatic impact on behavior modification and protects both sexes from HIV and young women from teen pregnancy.
+
+Halt SIDA trains volunteer peer educators who work with a supervisor to raise awareness among their friends and colleagues in school, university and the community.
+
+Volunteer peer educators are trained through extensive workshops covering HIV/AIDS and related issues including life skills, social mobilization, and effective communication. Peer educators receive training materials (condoms, leaflets, posters, etc.) and routine evaluation to further their development. Through a cadre of 24 volunteers, more than 8,500 youths can be reached annually.
+
+##Panzi Hospital 
+(image:panzi.gif)
+_DRC - S Kivu_
+Global Strategies began partnering with Panzi Hospital in 2009 to deliver post-rape healthcare to rape survivors.
+
+The project expanded in 2012 by providing access to 2,000 post-rape health kits, called the Prévention Pack, to survivors in the South Kivu province in the Democratic Republic of the Congo.  The expanded project includes intensive training with experts in the field of sexual violence and an improved regimen of prescribed medications.
+
+The advantage of the “Prévention Pack” is that it requires fewer pills that are easier to tolerate.  With the use of the Prévention Pack we hope to provide more effective HIV prevention.
+
+----
+maincolumn3:
+##Wild4Life and Painted Dog Conservation
+(image:w4life.png)
+_Zimbabwe_
+Wild4Life addresses the unmet need for health services in rural communities in sub-Saharan Africa by mobilizing communities, creating demand, connecting them to health service providers, and managing a coordinated response. 
+
+Global Strategies began working with Wild4Life on an HIV education and training project in collaboration with the Painted Dog Conservation (PDC) in in the Hwange District, home to largest park in Zimbabwe, Hwange National Park, in August 2011.  
+
+##Swami Vivekananda Youth Movement (SVYM)
+(image:svym_logo.jpg)
+_India Mysore District_
+Our project with SVYM includes building and educating a core rehabilitation team to address patient needs.  
+
+In addition, the project focuses on patient education, educational outreach to the local community through seminars and projects to develop an understanding about disability and community-based rehabilitation.
+
+<!-- ##Liberia Profile Here?
+(image:liberia.jpg)
+_Liberia - Monrovia_
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. -->

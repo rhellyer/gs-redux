@@ -1,0 +1,27 @@
+title:Hope Partners
+----
+
+annotation: _this page will eventually be a payment page directly hosted at etapestry -  
+(link:comp1.jpg class:fancybox text:see comp v1)_
+----
+intro:
+
+Your partnership will bring hope and health to the most vulnerable women and children in the world. 
+----
+text:
+
+
+With your gift of $30/month or more (that's just $1 a day) you are investing in healthcare workers like nurses who directly provide life-saving healthcare to women and children who desperately need help. 
+
+Giving monthly is quick and easy. 
+
+In appreciation for your commitment, you’ll receive quarterly stories and photos from the field to share the impact of your partnership. 
+
+----
+
+rightcolumn: 
+(image:assets/images/hopepartners-btn.jpg link:https://app.etapestry.com/hosted/GlobalStrategiesforHIVPrev/OnlineGiving-preview.html class:floatright)
+
+<p style="clear:both">&nbsp;</p>
+
+(image:hope-partners1.jpg class:floatright shadow title:Hope Partners width:250)

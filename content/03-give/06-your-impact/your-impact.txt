@@ -1,0 +1,48 @@
+title: The Impact of Your Gift
+
+----
+headerimage: 
+(image:01-djuma.jpg)
+----
+maincolumn1:
+
+<h2 style="font-size:30px">Our Partnership Matters. Because of You…</h2>
+
+**We have trained** more than 5,000 healthcare and community workers in 140 clinics and hospitals in 18 countries
+
+**More than 90,000 babies** have received medicine to prevent HIV infection
+
+**A full-time Congolese female doctor** has the salary support and training to provide follow-up care to over 700 HIV affected children in North Kivu, Democratic Republic of Congo, with over 400 children on treatment
+
+**We have tested** over 100,000 pregnant women for HIV
+
+**Important HIV education** was provided to more than 18,000 young people
+
+**Victims of sexual violence are being cared for** in Eastern Congo and 2,000 post exposure prophylaxis kits were delivered to protect women and girls from unwanted pregnancy, HIV and other STDs
+----
+maincolumn2:
+
+<h2 style="font-size:30px">Every Gift Helps</h2>
+
+Every gift helps a vulnerable woman or child.  Please consider gifts such as:
+
+<ul class="supportinaction">
+	<li><span>$20</span> can provide antibiotics for an HIV positive mom and her baby to prevent infections such as pneumonia and meningitis</li> 
+	
+	<li><span>$50</span> can provide transportation for a community health worker to visit families in need</li>
+
+	
+	<li><span>$100</span> can provide early infant HIV diagnostic testing leading to life-saving treatment</li>
+
+	
+	<li><span>$300</span> can provide an on-site certification course in neonatal resuscitation taught by local nurses</li>
+
+	
+	<li><span>$1,000</span> can allow a local nurse to become a clinical mentor to other nurses by providing for transportation and partial salary support</li>
+</ul>
+
+
+
+<i class="icon-circle-arrow-right fixedwidthicon"></i> (link:about-us/financial-reports text:Review our financial information) 
+
+
