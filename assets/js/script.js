@@ -61,9 +61,9 @@ $(function(){
             var thebio = $(this).siblings('.bio');
             var isopen = thebio.is(':visible');
 
-            console.log(thebio);
-            console.log(isopen);
-            console.log($('.about-bios .bio'));
+            // console.log(thebio);
+            // console.log(isopen);
+            // console.log($('.about-bios .bio'));
             
             // close all
             $('.bio').hide();
