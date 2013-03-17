@@ -15,15 +15,13 @@
                 </div>
             </div>
             <!-- <a class="readmore" href="<?php echo $article->url() ?>">more  &rsaquo; </a> -->
+            <div class="separator">&nbsp;</div>
         
         <div class="article separator clear"></div>
         
 
     <?php endforeach;  ?>
 
-    <div class="row annotation">
-        <?php echo kirbytext($page->annotation()) ?>
-    </div>
   
    
 
