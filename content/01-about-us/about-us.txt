@@ -6,7 +6,7 @@ missiontitle: Our Mission
 ----
 missiontext: 
 
-Global Strategies empowers communities in the most neglected areas of the world to improve the health of women and children.
+Global Strategies empowers communities in the most neglected areas of the world to improve the lives of women and children through healthcare.
 
 ----
 modeltitle: What We Do
