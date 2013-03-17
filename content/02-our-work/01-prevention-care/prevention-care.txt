@@ -18,14 +18,13 @@ bannerlinks: <a href="#pmtct" class="fancybox">(image:pmtct.png)</a><a href="#pr
 
 article1_title:
 
-##Prevention of Mother to Child HIV Transmission
+##Prevention of Mother to Child HIV Transmission (PMTCT)
 
 ----
 
 article1_text:
 
-We integrate PMTCT into early infant care using an approach to simultaneously address basic needs in perinatal care and reduce mortality due to HIV transmission.
-Comprehensive PMTCT services include voluntary testing and counseling, referral for antiretroviral medication if indicated, encourage the mother to deliver under the care of a skilled birth attendant with knowledge of HIV and testing the infant for HIV. 
+We integrate PMTCT into early infant care using an approach to simultaneously address basic needs in perinatal care and reduce mortality due to HIV transmission. Comprehensive PMTCT services include voluntary testing and counseling, referral for antiretroviral medication if indicated, encouraging the mother to deliver under the care of a skilled birth attendant with knowledge of HIV and testing the infant for HIV. 
 
 ----
 article2_title:
