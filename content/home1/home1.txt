@@ -8,12 +8,11 @@ featureright:
 ###(link:about-us/contact text:CONTACT US)
 
 <p class="address">	
-828 San Pablo Avenue<br>
-Suite 260<br>
+828 San Pablo Avenue, Suite 260<br>
 Albany, CA 94706<br>
 </p>
 
-<p class="phone wide">(415) 451-1814</p>
+<p class="phone wide">(415) 451-1814<br></p>
 
 <i class="icon-envelope fixedwidthicon"></i> (email:info@globalstrategies.org class:email)
 
