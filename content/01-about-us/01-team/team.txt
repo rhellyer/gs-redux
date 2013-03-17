@@ -122,9 +122,9 @@ David Wanderman, MD:
 ----
 
 supporters:
-Global Strategies supporters show their commitment to improving the lives of women and children by supporting our work through funds, supply donations and offering their expertise.
 
-(link:about-us/supporters text:› See Details of Our Supporters)
+
+(link:about-us/supporters text:› Read About Our Supporters)
 
 ----
 regional_partners:
