@@ -14,7 +14,7 @@ Albany, CA 94706<br>
 
 <p class="phone wide">(415) 451-1814<br></p>
 
-<i class="icon-envelope fixedwidthicon"></i> (email:info@globalstrategies.org class:email)
+<i class="icon-envelope fixedwidthicon" style="margin-top:30px;"></i> (email:info@globalstrategies.org class:email)
 
 <i class="icon-facebook wide  fixedwidthicon"></i> (link:https://www.facebook.com/pages/Global-Strategies-for-HIV-Prevention/78260623299 class:facebook text: Facebook target:_blank)
 
