@@ -12,7 +12,7 @@ wherewework:
 ##Where We Work
 
 <i class="icon-globe icon-4x pull-left" style="color:#888; margin-top:-10px"></i>Site-specific projects are currently underway in Democratic Republic of the Congo,  India, and Zimbabwe. 
-For more information, check our (Link:our-work/regional-portfolios text: Regional Portfolios page »)
+For more information, check our (Link:our-work/regional-partners text: Regional Partners page ») and our (link:our-work/field-reports text:Field Reports page »)
 
 ----
 link1:
