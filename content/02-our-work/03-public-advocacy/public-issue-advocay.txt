@@ -2,9 +2,9 @@
 ----
 
 rightcolumn: 
-
-(image:ethics-in-health1.png link:http://ethicsinhealth.org title: www.ethicsinhealth.org target:_blank)&nbsp;&nbsp;&nbsp;(image:treatall1.png link:http://treatall.org target:_blank title:www.treatall.org)
-
+<div style="margin-left:60px">
+(image:ethics-in-health1.png link:http://ethicsinhealth.org title: www.ethicsinhealth.org target:_blank)<br><br><br>(image:treatall1.png link:http://treatall.org target:_blank title:www.treatall.org)
+</div>
 
 ----
 intro:
