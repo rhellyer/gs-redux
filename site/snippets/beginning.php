@@ -53,9 +53,9 @@
                         </a>
                     </div>
                     <div class="hometopfeature">
-                        <a href="<?php echo url('comingtogether'); ?>">
+                        <!-- <a href="<?php echo url('comingtogether'); ?>">
                             <img src="<?php echo url('assets/images/coming-together1.png') ?>" alt=""> </a>
-                            <div class="mergerannouncement"style="color: #333; text-align:right;font-weight: 400; text-transform: uppercase; font-size: .9em;">Merger Announcement &raquo;</div> 
+                            <div class="mergerannouncement"style="color: #333; text-align:right;font-weight: 400; text-transform: uppercase; font-size: .9em;">Merger Announcement &raquo;</div>  -->
                     </div>
 
                 	<div class="nav menu span4"> 
