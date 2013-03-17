@@ -26,7 +26,7 @@ Global Strategies works with field partners to identify the most important and r
 
 ----
 
-article2_title: ##Rehabilitation
+article2_title: ##Orthopedic Officers
 
 ----
 
@@ -35,7 +35,8 @@ article2_text:
 Our rehabilitation training model uses a curriculum designed and implemented by physical therapists including over 100 hours of formal didactic instruction and one-on-one clinical mentorship.  We work alongside frontline workers to meet specific needs, establishing long-term relationships to address educational needs and build the capacity of field partners.
 
 ----
-article3_title:##Training for Healthcare Workers
+
+article3_title:##Healthcare Workers
 
 ----
 
@@ -44,7 +45,7 @@ We aim to lessen the causes of death by generating a network of skilled healthca
 
 ----
 
-article4_title:##Training for Community Leaders
+article4_title:##Community Leaders
 
 ----
 
