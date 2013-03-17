@@ -1,8 +1,7 @@
 ﻿Title: News
 
 ----
-annotation: Need to include articles from 2012 from old site
-----
+
 
 Text: Lorem ipsum dolor sit amet, fulgor infaustissimi eum filiam vel natae tibi cum. Auri est Apollonius in lucem genero ergo est cum obiectum aliquip ipsa Invitamus me missam.
     
