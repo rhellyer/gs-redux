@@ -13,40 +13,10 @@ Add merger announceemnt below
 Any way to increase text size on video, hard to read title
 
 Our Work:
-
 make changes suggested to move abc into here
 
-
-
-Public Issue Advocacy
-
-Could buttons on right be clearer? Text is blurry
-
-Our primary efforts include Dr. Amman’s blog entitled add space Ethics In Health,
-and our 2012-2013 “TREAT ALL” campaign to urge the World Health Organization
-to change their HIV treatment guidelines to be consistent with the US Health and
-Human Services guidelines.
-
-Regional Partners
-Halt SIDA
-
-Our partner’s name, “Halt SIDA" translates to “Stop AIDS.” They use a peer educator
-model with particular focus on vulnerable youth to address gender roles, healthy
-sexuality, family planning, and HIV prevention. Sex and HIV/AIDS education for
-youth has a dramatic impact on behavior modification and protects both sexes from
-HIV and young women from teen pregnancy.
-
-Zimbabwe
-
-THIS MAY BUMP TOO MUCH SO SCRAP IF IT DOES
-Global Strategies began working with Wild4Life on an HIV education and training
-project for park workers and their families in collaboration with the Painted
-Dog Conservation (PDC) in in the Hwange District, home to the largest park in
-Zimbabwe, Hwange National Park, in August 2011.
+regional partners: 
+consider single column approach
 
 Field Reports
-A Liberian midwife working with the Metrodigi curriculum, taking the learning very
-seriously. I like this photo because it shows that people take learning seriously.
-delete These are women who are already taking care of patients—so acquiring new
-knowledge is more than just personal enrichment, it is about caring for real people
-in real situations.
+consider single column approach
