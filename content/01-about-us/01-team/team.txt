@@ -15,7 +15,12 @@ Sloane Drake:
 
 Cindy McWhorter:
   role: Director of International Programs
-  bio:
+  bio: | 
+    Cindy oversees the Global Strategies programs in the Democratic Republic of the Congo, India, Liberia and Zimbabwe.  Before joining Global Strategies, Cindy worked as a clinical research associate and medical writer in the pharmaceutical industry developing and implementing clinical research studies.  She graduated from Baylor University with a BS in Chemistry. 
+
+    The desire to increase access to affordable care for treatable diseases in resource-poor regions of the world motivates Cindy in her work. 
+
+    She enjoys travel, snow skiing, and generally being anywhere outside with her husband, Ryan, and two children.
 
 Jennifer Parson:
   role: Director of Global Health Nursing
@@ -27,15 +32,26 @@ Board:
 
 Arthur J Ammann, MD:
   role: Founder
-  bio: (image:arthur.jpg class:floatleft)Dr. Ammann has a long and distinguished career in pediatric immunology and infectious disease (See “(link:about-us/founder text:Founder)” for more details).  In 1977 he performed the clinical trials that led to the first approval for a  pneumococcal vaccine. In 1982, Dr. Ammann described two of the three ways that HIV is transmitted.  In 1998, he founded Global Strategies for HIV Prevention, which became Global Strategies in 2013.  He has authored or co-authored over 450 scientific papers and given over 700 international lectures and courses on HIV/AIDS.  He is a Clinical Professor of Pediatrics at the University of California, San Francisco.
+  bio: | 
+    (image:arthur.jpg class:floatleft)Dr. Ammann has a long and distinguished career in pediatric immunology and infectious disease (See “(link:about-us/founder text:Founder)” for more details).  
+
+    In 1977 he performed the clinical trials that led to the first approval for a  pneumococcal vaccine. In 1982, Dr. Ammann described two of the three ways that HIV is transmitted.  In 1998, he founded Global Strategies for HIV Prevention, which became Global Strategies in 2013.  
+
+    He has authored or co-authored over 450 scientific papers and given over 700 international lectures and courses on HIV/AIDS. He is a Clinical Professor of Pediatrics at the University of California, San Francisco.
 
 William Clark, MDiv:
   role: Chairman
-  bio: Bill was formerly a member of the Oklahoma State Legislature from 1982 to 1988.  He served as Minority Caucus Chair during the last of his three terms.  Bill is currently the Executive Pastor of Ministry at Christ Church of Oakbrook in Illinois.
+  bio: | 
+    Bill was formerly a member of the Oklahoma State Legislature from 1982 to 1988.  He served as Minority Caucus Chair during the last of his three terms.  
+
+    Bill is currently the Executive Pastor of Ministry at Christ Church of Oakbrook in Illinois.
   
 Ed Middendorf:
   role: Secretary/Treasurer
-  bio: Ed has had 35 years of financial and business planning experience.  Through the Middendorf Company and New York Life he provided life insurance estate and business planning. He is a long-term resident of Marin County, where he has been active in industry and community affairs and volunteer activities.
+  bio: | 
+    Ed has had 35 years of financial and business planning experience.  Through the Middendorf Company and New York Life he provided life insurance estate and business planning. 
+
+    He is a long-term resident of Marin County, where he has been active in industry and community affairs and volunteer activities.
 
 Anne-Marie Duliege, MD:
   role:
@@ -48,7 +64,10 @@ Elizabeth Fleming, MBA:
   
 Kerry Gough, JD:
   role:
-  bio: Kerry is a graduate of the University of California Berkeley Law School.  Following graduation he worked for the United States Department of Justice, civil rights division in the Attorney Generals Honors Graduate Program. In the Civil Rights era, he worked with the NAACP Legal Defense Fund in Mississippi.
+  bio: | 
+    Kerry is a graduate of the University of California Berkeley Law School.  
+
+    Following graduation he worked for the United States Department of Justice, civil rights division in the Attorney Generals Honors Graduate Program. In the Civil Rights era, he worked with the NAACP Legal Defense Fund in Mississippi.
 
 
 Andrea Marmor, MD:
@@ -57,21 +76,33 @@ Andrea Marmor, MD:
 
 Ted Ruel, MD:
   role:
-  bio: Dr. Ruel co-founded IPOP (The International Pediatric Outreach Project, which merged to become Global Strategies) with Sadath Sayeed in 2002, while completing his training in pediatrics at the University of California, San Francisco.  He went on to pursue training in pediatric infectious disease and joined the faculty in 2009.  He attends on the pediatric infectious disease clinical service and performs patient-based translational research of HIV-infection and malaria in African children.
+  bio: | 
+    Dr. Ruel co-founded IPOP (The International Pediatric Outreach Project, which merged to become Global Strategies) with Sadath Sayeed in 2002, while completing his training in pediatrics at the University of California, San Francisco.  He went on to pursue training in pediatric infectious disease and joined the faculty in 2009.  
+
+    He attends on the pediatric infectious disease clinical service and performs patient-based translational research of HIV-infection and malaria in African children.
 
 
 Sadath Sayeed, JD, MD:
   role:
-  bio: Dr. Sayeed co-founded IPOP with Ted Ruel in 2002. He is currently an Assistant Professor of Global Health, Social Medicine & Pediatrics at Harvard Medical School where he also serves as Director of the Program in Newborn Health and Social Change. He is a staff neonatologist at Children’s Hospital Boston and Program Director for the Responsible Conduct of Research at Harvard Medical School.
+  bio: | 
+    Dr. Sayeed co-founded IPOP with Ted Ruel in 2002. He is currently an Assistant Professor of Global Health, Social Medicine & Pediatrics at Harvard Medical School where he also serves as Director of the Program in Newborn Health and Social Change. 
+
+    He is a staff neonatologist at Children’s Hospital Boston and Program Director for the Responsible Conduct of Research at Harvard Medical School.
 
 Haynes Sheppard, Ph.D.:
   role:
-  bio: Haynes “Chip” Sheppard recently completed a long career as a public health research scientist, including AIDS research, HIV vaccine development, infectious disease diagnostics, and international laboratory development.  He currently works with several non-profits to bring high-quality, low-cost laboratory capability to health facilities in developing countries.
+  bio: | 
+    Haynes “Chip” Sheppard recently completed a long career as a public health research scientist, including AIDS research, HIV vaccine development, infectious disease diagnostics, and international laboratory development.  
+
+    He currently works with several non-profits to bring high-quality, low-cost laboratory capability to health facilities in developing countries.
 
 
 Reverend Paul Tshihamba MDiv:
   role:
-  bio: Paul holds a Master of Divinity from Fuller Seminary and he served as Associate Pastor of Missions at First Presbyterian Church Berkeley. Currently, he is Pastor of Missions at Christ Presbyterian Church (PCUSA) in Edina, Minnesota and is a native of the Democratic Republic of Congo.
+  bio: | 
+    Paul holds a Master of Divinity from Fuller Seminary and he served as Associate Pastor of Missions at First Presbyterian Church Berkeley. 
+
+    Currently, he is Pastor of Missions at Christ Presbyterian Church (PCUSA) in Edina, Minnesota and is a native of the Democratic Republic of Congo.
  
 
 Craig Waldman, JD:
@@ -80,7 +111,10 @@ Craig Waldman, JD:
 
 David Wanderman, MD:
   role:
-  bio: David is currently an independent healthcare consultant for hospital, healthcare operations.  David previously held positions with McKinsey & Company, University of California San Francisco Medical Center, and Kaiser Permanente.
+  bio: | 
+    David is a pediatrician trained at UCSF and spent time at McKinsey and Company in the healthcare consulting practice. 
+
+    He currently splits time between leading  operational improvement work at Stanford Hospital and clinical work at Lucile Packard Children's Hospital at Stanford. 
 
 
 
