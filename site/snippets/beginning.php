@@ -54,8 +54,9 @@
                     </div>
                     <div class="hometopfeature">
                         <a href="<?php echo url('about-us/news/merger-announcement'); ?>">
-                            <!-- <img src="<?php echo url('assets/images/coming-together1.png') ?>" alt=""> --> 
-                            <div class="mergerannouncement"style="color: #333; text-align:right;font-weight: 400; text-transform: uppercase; font-size: .9em;"><br>Merger Announcement &raquo;</div> </a>
+                            <div class="mergerannouncement">
+                                Global Strategies empowers communities in the most neglected areas of the world to improve the lives of women and children through healthcare.
+                            </div> </a>
                     </div>
 
                 	<div class="nav menu span4"> 
