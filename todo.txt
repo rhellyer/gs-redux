@@ -41,4 +41,10 @@ donate now button on one time gift ... make transparent
 
 need to get etapestry to customize the Thank You Page
 
+update the htaccess file to include seo feature
+
+update htaccess to redirect old links
+
+
+
 
