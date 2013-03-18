@@ -24,8 +24,15 @@
 a.readmore, a.readmoreq { color:#5089B6; color:#CF4C3C; font-weight:normal;}
 a.readmoreq:before {content:'\00bb\0020'}
 
-.inlineheading { text-transform: uppercase; font-weight: 600; display:inline-block; margin-right: 10px;}
-
+.xxxinlineheading { text-transform: uppercase; font-weight: 600; display:inline-block; margin-right: 10px;}
+.inlineheading {
+text-transform: uppercase;
+font-weight: 600;
+display: block;
+position: absolute;
+left: 60px;
+text-align: right;
+}
 /* ========= layout ========= */
 
 .wrapper {
