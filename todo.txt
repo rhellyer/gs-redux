@@ -33,3 +33,8 @@ fix redirection
 
 hover effects on buttons
 
+remove shadows on our work
+
+donate now button on one time gift ... make transparent
+
+
