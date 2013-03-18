@@ -66,9 +66,9 @@ From 2010 to 2012 we conducted extensive evaluations and monitoring initiatives 
 This greater understanding of the complex problems that affected our implementing partners and their patients led to rewriting our mission to facilitate better delivery of healthcare and educational training centered on maternal and child health.  In this process we came to recognize new opportunities with like-minded organizations that had been long-term partners and new opportunities to work together within the new mission.
 
 ----
-todaytitle: Improving Health Today
+xxxtodaytitle: Improving Health Today
 ----
-todaytext: 
+xxxtodaytext: 
 
 In 2013 Global Strategies merged with The International Pediatric Outreach Project (IPOP).  IPOP was co-founded in 2002 by Theodore Ruel, M.D. and Sadath Sayeed, M.D., J.D. The broad aim was to improve the health of children in under-resourced communities across the globe.  IPOP established hospital neonatal projects, rehabilitation initiatives, school health programs, and scholarships for healthcare professionals.
 
