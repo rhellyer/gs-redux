@@ -107,9 +107,9 @@ img.floatleft{ float:left; margin:20px 20px 20px 0;}
 /* ===========  detailesd styleing ============ */
 
 .homepage .title {display:none;}
-.hometopfeature { display:none;}
+
 .homepage .hometopfeature {
-display: block;
+display: none;
 position: absolute;
 right: 30px;
 top: 22px;
