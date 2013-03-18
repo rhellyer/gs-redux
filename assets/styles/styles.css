@@ -96,7 +96,7 @@ margin-top: 0;
     width: 100%;
 }
 .homepagebanner {
-    margin: 5px 0
+    margin: 20px 0
 }
 .footer {
    min-height: 20px;
@@ -124,7 +124,10 @@ right: 30px;
 top: 22px;
 }
 .homepage .hometopfeature:hover {opacity: .5;}
-.homepage .features {margin-top:20px; font-size:14px; line-height: 18px;}
+.homepage .features {
+  margin-top:40px; 
+  font-size:14px; 
+  line-height: 18px;}
 
 .homepage .features .floatleft { margin:0 10px 0 0;}
 
