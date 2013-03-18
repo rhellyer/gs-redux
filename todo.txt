@@ -23,3 +23,13 @@ consider single column approach
 
 flyer .. 
 tweak size or test on pdf print to fit
+
+
+Contact Us
+Looks like you are still working on that one
+
+links 
+fix redirection
+
+hover effects on buttons
+

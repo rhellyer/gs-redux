@@ -1,5 +1,11 @@
 version.txt
 
+Version 1.1 beta March 17 2013
+
+- added edits to give pages
+- uploaded to globalstrategies root
+- changed old site to globalstrategies.org/prior.html
+
 Version 1.0 beta March 17 2013
-------------------------------
+
 
