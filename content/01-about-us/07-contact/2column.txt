@@ -1,0 +1,19 @@
+﻿Title: Contact Us
+
+----
+
+maincolumn1: 
+
+
+<div style="margin-left:80px"><br><br>
+(image:assets/images/person-blue.png class:floatleft)Global Strategies<br>
+	828 San Pablo Avenue, Suite 260<br>
+	Albany, CA 94706<br></div>
+----
+maincolumn2:
+<br>
+<i class="icon-phone fixedwidthicon"></i> (415) 451-1814
+<i class="icon-envelope fixedwidthicon"></i> (email:info@globalstrategies.org class:email)
+<i class="icon-facebook wide  fixedwidthicon"></i> (link:https://www.facebook.com/pages/Global-Strategies-for-HIV-Prevention/78260623299 class:facebook text: Facebook target:_blank)
+<i class="icon-twitter fixedwidthicon"></i> (link:http://twitter.com/glblstrategies text:Twitter class:twitter target:_blank)
+
