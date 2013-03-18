@@ -22,3 +22,9 @@ Halt SIDA got to work immediately.  They visited with professional sex workers, 
 Now Global Strategies, working with Dr. Givano and Halt SIDA, is planning the next steps to address this health issue.  
 ----
 rightcolumn:
+###Latest Articles
+
+(link:about-us/news/merger-announcement text:Merger Announcement)
+(link:about-us/news/liberia-report text:Liberia Report)
+(link:about-us/news/halt-sida text:Halt SIDA!)
+

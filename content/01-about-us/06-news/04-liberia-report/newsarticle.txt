@@ -25,6 +25,12 @@ The first step is shoulder-to-shoulder mentoring to teach providers the critical
 
 leftcolumn: 
 ----
-rightcolumn: (link:about-us/news text:View All Articles »)
+
+rightcolumn:
+###Latest Articles
+
+(link:about-us/news/merger-announcement text:Merger Announcement)
+(link:about-us/news/liberia-report text:Liberia Report)
+(link:about-us/news/halt-sida text:Halt SIDA!)
 ----
 thumbnail: (image:article.jpg width:100%)

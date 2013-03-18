@@ -4,7 +4,6 @@
 
 Date: Feb 26th, 2013
 
-
 ----
 
 Intro: Global Strategies For Hiv Prevention And The international Pediatric Outreach Project To Unite To expand Efforts To Help Women And Children 
@@ -40,5 +39,12 @@ Founded in 2002 by Theodore Ruel, M.D. and Sadath Sayeed, M.D., J.D., IPOP's mis
 ----
 
 leftcolumn: 
+
 ----
-rightcolumn: (link:about-us/news text:View All Articles »)
+
+rightcolumn:
+###Latest Articles
+
+(link:about-us/news/merger-announcement text:Merger Announcement)
+(link:about-us/news/liberia-report text:Liberia Report)
+(link:about-us/news/halt-sida text:Halt SIDA!)
