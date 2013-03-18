@@ -15,11 +15,11 @@ modeltext:
 
 We serve women and children in the most neglected areas of the world who have limited or no access to modern healthcare. We are committed to transforming these communities by reducing maternal and infant mortality and overcoming barriers to the overall health of women and children.  We achieve lasting change with the following strategies: 
 
-<p><span class="inlineheading">Educate</span><br> Identify and train local partners to deliver quality healthcare in their communities</p>
+<p><span class="inlineheading">Educate</span> Identify and train local partners to deliver quality healthcare in their communities</p>
 
-<p><span class="inlineheading">Connect</span><br>Link local organizations to partners and resources to ensure sustainability  </p>
+<p><span class="inlineheading">Connect</span>Link local organizations to partners and resources to ensure sustainability  </p>
 
-<p><span class="inlineheading">Innovate</span><br>Pioneer new educational programs and improve evaluation tools to create lasting impact</p>         
+<p><span class="inlineheading">Innovate</span>Pioneer new educational programs and improve evaluation tools to create lasting impact</p>         
 
 ----
 
