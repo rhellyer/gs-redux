@@ -6,9 +6,8 @@ HeaderImage: (image:giveheader3.jpg class:giveheader)
 
 ----
 
-give_today:<div>(image:assets/images/givetoday-btn.jpg class:button link:give/one-time-gift)</div><div class="under-button">(image:assets/images/red-icon-100.png height:20) (link:give/your-impact text:See The Impact Of Your Gift)</div>
-**Your one-time gift** enables us to help the world’s most vulnerable women and children.
-
+give_today:<div>(image:assets/images/givetoday-btn.jpg class:button link:give/one-time-gift)</div><div class="under-button">(image:assets/images/red-icon-100.png height:20) (link:give/your-impact text:See the Impact of Your Gift)</div>
+**Your one-time gift** enables us to help the world’s most vulnerable women and children. Every gift helps towards creating life-changing transformation in these communities.
 ----
 
 matching_gifts:
@@ -19,13 +18,11 @@ Double or triple the impact of your donation!
 
 Many employers will match charitable contributions made by their employees.
 
-Contact your employer directly for questions about their matching gift program. It's easy to  find out if your company has a matching gift program: 
-
 <i class="icon-search"></i> (link:give/matching-gifts text: Search here for your employer)
 
 ----
 
-hope_partners:<div>(image:assets/images/hopepartners-btn.jpg class:button link:give/hope-partners)</div><div class="under-button">(image:assets/images/green-icon-100.png height:20) (link:give/hope-partners text:Read More About The Program)</div>
+hope_partners:<div>(image:assets/images/hopepartners-btn.jpg class:button link:give/hope-partners)</div><div class="under-button">(image:assets/images/green-icon-100.png height:20) (link:give/hope-partners text:Learn More About the Program)</div>
 
 
 **Your monthly gift** of $30 provides long lasting hope and health to those who need it most and allows us to partner with local leaders like nurses who care for women and children. 
@@ -35,7 +32,8 @@ other_ways:
 
 ##Other Ways to Give
 
-Please make checks payable to Global Strategies and send to:
+Please make checks payable to 
+Global Strategies and send to:
 
 _Global Strategies_
 _828 San Pablo Avenue, Suite 260_ 

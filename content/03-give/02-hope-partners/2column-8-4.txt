@@ -3,22 +3,22 @@ title:Hope Partners
 ----
 
 maincolumn1:
-<div class="hopepartnersintrotext">(image:hopepartnerspuzzlepiece.png)<div class="intro"><p>Become a Piece of the Solution!</p></div><p><strong>Your partnership will bring hope and health to the most vulnerable women and children in the world.</strong> </p><p>With your gift of $30/month or more you are creating lasting change in communities by helping Global Strategies in our daily fight to care for women and children. By joining this special group of Global Strategies’ supporters, you will provide strong and steady funding for life-changing healthcare to those who need it most.</p></div>
+<div class="hopepartnersintrotext">(image:hopepartnerspuzzlepiece.png)<div class="intro"><p>Become a piece of the solution!</p></div><p><strong>Your partnership will bring hope and health to the most vulnerable women and children in the world.</strong> </p><p>With your gift of $30/month or more you are creating lasting change in communities by helping Global Strategies in our daily fight to care for women and children. By joining this special group of Global Strategies’ supporters, you will provide strong and steady funding for life-changing healthcare to those who need it most.</p></div>
 
 <div class="intro"><p> For $1 a day as a Hope Partner you can:</p></div>
 
 <ul class="hopeinaction">
-	<li><span>(image:assets/images/person-green.png)</span>Help a severely malnourished child and give a community worker the support to find other children in her community and bring them to care.</li> 
+	<li><span>(image:assets/images/person-green.png)</span>Help a severely malnourished child and give a community worker the support to find other children in her community and bring them to care</li> 
 	
-	<li><span>(image:assets/images/person-blue.png)</span></i>Support a nurse who cares for sick babies and provide her with the support to travel and share her knowledge with other nurses.</li>
+	<li><span>(image:assets/images/person-blue.png)</span></i>Support a nurse who cares for sick babies and provide her with the support to travel and share her knowledge with other nurses</li>
 
 	
-	<li><span>(image:assets/images/person-red.png)</span></i>Provide life-saving medication to an HIV positive mother and make sure that everything is done to prevent her children from acquiring HIV.</li>
+	<li><span>(image:assets/images/person-red.png)</span></i>Provide life-saving medication to an HIV positive mother and make sure that everything is done to prevent her children from acquiring HIV</li>
 
 	
 </ul>
 
-(image:submit-btn.png link:https://app.etapestry.com/hosted/GlobalStrategiesforHIVPrev/OnlineGiving-preview.html)
+
 
 
 ----
@@ -32,11 +32,13 @@ maincolumn2:
 
 In appreciation for your commitment, you’ll receive quarterly stories and photos from the field to share the impact of your partnership. You will be invited to attend exclusive conference calls to hear about Global Strategies’ work and get exciting updates from special partners.
 
+(image:submit-btn.png link:https://app.etapestry.com/hosted/GlobalStrategiesforHIVPrev/OnlineGiving-preview.html)
+
 Monthly gifts of $30 or more and annual gifts of $360 or more qualify you as a Hope Partner. Monthly gifts will be charged on the same day of each month and annual gifts will be charged on the same day of each year.
 
-You may change or cancel your gift at anytime. View our (link:give/giving-faqs text:Frequently Asked Questions)  to see how easy it is to create and update your account. 
+You may change or cancel your gift at anytime. View our (link:give/giving-faqs text:Frequently Asked Questions)  to see how easy it is to make updates. 
 <hr>
-<i class="icon-phone"  style="display:inline-block;width:30px;"></i> +1 (415) 451-1814
+<i class="icon-phone"  style="display:inline-block;width:30px;"></i> (415) 451-1814
 <i class="icon-envelope" style="display:inline-block;width:30px;"></i> (email:giving@globalstrategies.org)
 <i class="icon-question-sign" style="display:inline-block;width:30px;"></i> (link:give/giving-faqs text:Have questions about giving? ) 
 

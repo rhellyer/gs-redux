@@ -10,11 +10,9 @@ text:
 
 Many employers will match charitable contributions made by their employees. 
 
-
-
-If you have any questions about your employer’s matching gift program, please contact your employer directly. 
-
-If you have additional questions, please contact Global Strategies at 415-451-1814 or giving@globalstrategies.org.
+If you have any questions about your employer’s matching gift program, please contact your employer directly.  
+	
+If you have additional questions, please contact <br>Global Strategies at (415) 451-1814 or (email:giving@globalstrategies.org).
 
 
 
@@ -23,10 +21,10 @@ If you have additional questions, please contact Global Strategies at 415-451-18
 
 rightcolumn:
 
-##Does Your Employer Match Your Contributions?
+<h3 class="intro">Does your employer match your contributions?</h3>
 
 To find out if your company has a matching gift program, use the search form below to look for your employer.
 
-<iframe style="margin-left:-10px" src="http://ematch.hepdata.com:8080/ematch/search/globalstrategies_iFrame" scrolling="auto" width="380" height="500" frameBorder="0" seamless="seamless"></iframe>
+<iframe style="border:1px solid #ccc; border-radius:6px;" src="http://ematch.hepdata.com:8080/ematch/search/globalstrategies_iFrame" scrolling="auto" width="380" height="250"  ></iframe>
 
 
