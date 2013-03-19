@@ -25,4 +25,4 @@
 </div>
 
 
-<?php echo snippet('ending') ?>
+<?php echo snippet('ending')  ?>

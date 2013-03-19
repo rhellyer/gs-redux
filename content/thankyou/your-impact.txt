@@ -9,9 +9,10 @@ headerimage: <div style="text-align:center;">(image:thankyou.jpg)</div>
 
 maincolumn1:
 
-<h2 style="text-align:center; font-size:1.5em; line-height:1.">Thank you for your life-changing gift to support the work <br>of Global Strategies!</h2> 
+<h2 style="text-align:center; font-size:1.5em; line-height:1.4em;">Thank you for your life-changing gift to support the work <br>of Global Strategies!</h2> 
 
 <!-- Because of your generosity, women and children will receive the care they need and deserve. We are grateful for your partnership.  -->
 
 A receipt for your records was emailed to the email address you provided.
 
+	
