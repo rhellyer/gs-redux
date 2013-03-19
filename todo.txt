@@ -1,4 +1,5 @@
-todo.txt
+TODO FILE
+
 
 all:
 check for images with white background
