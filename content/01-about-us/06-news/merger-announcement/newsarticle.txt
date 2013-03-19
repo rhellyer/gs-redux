@@ -16,10 +16,21 @@ thumbnail: (image:coming-together1.png width:100%)
 
 Text: 
 
-(image:coming-together1.png class:floatleft)After a decade of partnering to help women and children living in the most neglected areas of the world without access to healthcare, Global Strategies for HIV Prevention and The International Pediatric Outreach Project (IPOP) are merging into one nonprofit organization, Global Strategies. The new organization now has a greater capacity to serve women and children in countries such as the Democratic Republic of the Congo, Liberia, Zimbabwe and in rural India.
+<!-- (image:coming-together1.png class:floatright) -->After a decade of partnering to help women and children living in the most neglected areas of the world without access to healthcare, Global Strategies for HIV Prevention and The International Pediatric Outreach Project (IPOP) are merging into one nonprofit organization, Global Strategies. 
 
-- (link:about-us/news/dr-ammann-letter text:Read Dr. Arthur Ammann's letter here)
-- (link:about-us/news/merger-release text:Read the merger press release here)
+The new organization now has a greater capacity to serve women and children in countries such as the Democratic Republic of the Congo, Liberia, Zimbabwe and in rural India.
+
+<ul style="list-style:none; margin:0; padding:0">
+	<li>
+&raquo; (link:about-us/news/dr-ammann-letter text:Read Dr. Arthur Ammann's letter here)
+		
+	</li>
+	<li>
+&raquo; (link:about-us/news/merger-release text:Read the merger press release here)
+		
+	</li>
+</ul>
+
 
 
 ----
