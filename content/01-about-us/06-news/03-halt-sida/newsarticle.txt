@@ -23,8 +23,8 @@ Now Global Strategies, working with Dr. Givano and Halt SIDA, is planning the ne
 ----
 rightcolumn:
 ###Latest Articles
-
-(link:about-us/news/merger-announcement text:Merger Announcement)
+(link:about-us/news/dr-ammann-letter text:Dr. Ammann Letter)
+(link:about-us/news/merger-release text:Press Release)
 (link:about-us/news/liberia-report text:Liberia Report)
 (link:about-us/news/halt-sida text:Halt SIDA!)
 
