@@ -26,7 +26,7 @@
                </div>
                <div class="span3">
                    <h3><a href="<?php echo $url1 ?>">MERGER ANNOUNCEMENT</a></h3>
-                   <p>Global Strategies for Hiv Prevention and the international Pediatric Outreach Project To Unite to expand Efforts to Help Women and Children »</p>
+                   <p>Global Strategies For HIV Prevention and The International Pediatric Outreach Project (IPOP) to Unite to Expand Efforts to Help Women and Children »</p>
                 </div>
             </div>
            <div class="row">
