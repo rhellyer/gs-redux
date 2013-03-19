@@ -1,3 +1,3 @@
-title: splash page
+title: Global Strategies
 ----
-text: (image:splash.jpg link:home1 )
+text: (image:splash.jpg link:home1 title:Click to learn more at globalstrategies.org)
