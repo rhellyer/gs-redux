@@ -27,10 +27,10 @@
 			</li>
 			<?php endforeach; ?>
 		</ul>
-		<h2>Supporters</h2>
+		
 		<?php echo kirbytext($page->supporters()) ?>
 
-		<h2>Regional Partners</h2>
+		
 
 		<?php echo kirbytext($page->regional_partners()) ?>
 		</div>
