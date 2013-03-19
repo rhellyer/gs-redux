@@ -2,7 +2,7 @@
 
 ----
 
-Date: Feb 26th, 2013
+Date: March 20th, 2013
 
 ----
 
@@ -36,15 +36,4 @@ Founded by Arthur Ammann, MD, Global Strategies has been working internationally
 
 Founded in 2002 by Theodore Ruel, M.D. and Sadath Sayeed, M.D., J.D., IPOP's mission was to improve the health of children in under-resourced communities across the globe. IPOP established hospital nursery projects, rehabilitation initiatives, school health programs and scholarships for healthcare professionals. IPOP worked diligently to improve the education of nurses and the quality of care, with specific attention to the care of sick babies and pediatric rehabilitation from traumatic injury or congenital anomaly. IPOP trained over 200 nurses and clinic staff in neonatal resuscitation.
 
-----
 
-leftcolumn: 
-
-----
-
-rightcolumn:
-###Latest Articles
-(link:about-us/news/dr-ammann-letter text:Dr. Ammann Letter)
-(link:about-us/news/merger-release text:Press Release)
-(link:about-us/news/liberia-report text:Liberia Report)
-(link:about-us/news/halt-sida text:Halt SIDA!)

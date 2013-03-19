@@ -1,4 +1,4 @@
-﻿Title: Letter from Dr. Arthur J. Ammann
+﻿Title: Letter from Dr. Ammann
 
 ----
 
@@ -6,7 +6,7 @@ Date: March 18th, 2013
 
 ----
 
-Intro: Global Strategies For Hiv Prevention And The international Pediatric Outreach Project To Unite To expand Efforts To Help Women And Children 
+Intro: We are exceedingly grateful for your support over the years. With your help we have provided life-changing healthcare to over 100,000 women and children in the most neglected areas of the world and touched countless others through our education initiatives. 
 
 ----
 
@@ -35,15 +35,4 @@ With gratitude to each of you,
 Arthur J. Ammann, MD
 
 
-----
 
-leftcolumn: 
-
-----
-
-rightcolumn:
-###Latest Articles
-(link:about-us/news/dr-ammann-letter text:Dr. Ammann Letter)
-(link:about-us/news/merger-release text:Press Release)
-(link:about-us/news/liberia-report text:Liberia Report)
-(link:about-us/news/halt-sida text:Halt SIDA!)

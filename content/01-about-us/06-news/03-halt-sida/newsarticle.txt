@@ -20,11 +20,7 @@ Text:
 Halt SIDA got to work immediately.  They visited with professional sex workers, getting permission from the bars where they work, to begin to test women and their partners.  Sadly, our hypothesis was confirmed.  Testing 237 women, Halt SIDA and Dr. Givano discovered an HIV prevalence of 9%--nearly 35 times the prevalence identified in some of the rural areas in the South Kivu province.  Additionally, HIV was not the only health issue identified.  Routine violence, abuse of the children of sex workers by their clients, and sexually transmitted infections are all part of the daily life of these women.  Halt SIDA, with support from Global Strategies, provided the women with a renewable supply of condoms, referred HIV positive women to care and sat with the women providing education about preventing HIV.  
 
 Now Global Strategies, working with Dr. Givano and Halt SIDA, is planning the next steps to address this health issue.  
-----
-rightcolumn:
-###Latest Articles
-(link:about-us/news/dr-ammann-letter text:Dr. Ammann Letter)
-(link:about-us/news/merger-release text:Press Release)
-(link:about-us/news/liberia-report text:Liberia Report)
-(link:about-us/news/halt-sida text:Halt SIDA!)
+
+
+
 
