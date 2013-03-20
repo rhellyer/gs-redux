@@ -11,7 +11,7 @@ Joshua Bress, MD:
 
 Sloane Drake:
   role: Operations Manager   
-  bio: (image:sloane.jpg class:floatleft) Sloane Drake, grew up in British Columbia, Canada, and fell in love with the Bay Area after visiting family as a young adult. Following her move to Marin County in 1985, she began her career in accounting and office management. While Sloane’s career has primarily focused on working with small, growing companies to implement accounting and management systems, she spent four years managing a medical equipment company in Mill Valley. Her passion for community service lead her to seek out volunteer work with local nonprofits and eventually her professional career transitioned to nonprofit operations. She has been married for 23 years and has a son and a daughter in college.
+  bio: (image:sloane.jpg class:floatleft) Sloane Drake, grew up in British Columbia, Canada, and fell in love with the Bay Area after visiting family as a young adult. Following her move to Marin County in 1985, she began her career in accounting and office management. While Sloane’s career has primarily focused on working with small, growing companies to implement accounting and management systems, she spent four years managing a medical equipment company in Mill Valley. Her passion for community service led her to seek out volunteer work with local nonprofits and eventually her professional career transitioned to nonprofit operations. She has been married for 23 years and has a son and a daughter in college.
 
 Cindy McWhorter:
   role: Director of International Programs
