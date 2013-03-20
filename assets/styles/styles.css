@@ -122,8 +122,8 @@ img.floatleft{ float:left; margin:20px 20px 20px 0;}
   position: absolute;
   right: 30px;
   top: 22px;
-  font-family: piron;
-  text-transform: lowercase;
+  font-family: piron, helvetica, arial, sans-serif;
+
 }
 /*.homepage .hometopfeature:hover {opacity: .5;}*/
 .homepage .features {
