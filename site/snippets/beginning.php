@@ -52,11 +52,8 @@
                             
                         </a>
                     </div>
-                    <div class="hometopfeature">
-                        <a href="<?php echo url('about-us/news/merger-announcement'); ?>">
-                            <div class="mergerannouncement">
-                                Global Strategies empowers communities in the most neglected areas of the world to improve the lives of women and children through healthcare.
-                            </div> </a>
+                    <div class="hometopfeature span4">
+                        Transforming communities through healthcare for women and children
                     </div>
 
                 	<div class="nav menu span4"> 

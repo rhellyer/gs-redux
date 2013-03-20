@@ -118,12 +118,14 @@ img.floatleft{ float:left; margin:20px 20px 20px 0;}
 .hometopfeature {display:none;}
 
 .homepage .hometopfeature {
-display: none;
-position: absolute;
-right: 30px;
-top: 22px;
+  display: block;
+  position: absolute;
+  right: 30px;
+  top: 22px;
+  font-family: piron;
+  text-transform: lowercase;
 }
-.homepage .hometopfeature:hover {opacity: .5;}
+/*.homepage .hometopfeature:hover {opacity: .5;}*/
 .homepage .features {
   margin-top:40px; 
   font-size:14px; 
