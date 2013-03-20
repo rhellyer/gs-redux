@@ -98,14 +98,19 @@ margin-top: 0;
 .homepagebanner {
     margin: 20px 0
 }
-.footer {
-   min-height: 20px;
-}
 .footer a {
   color: #CF4C3C;
 }
 .footer a:hover {
   color: #222;
+}
+.footer{
+   min-height: 20px;
+text-align: center;
+font-size: 12px;
+line-height: 2.5em;
+color: hsl(0, 0%, 57%);
+margin-bottom: 40px;
 }
 
 img.floatright { float:right; margin:20px 0 0 20px;}
