@@ -8,7 +8,7 @@
 		$team  = yaml($page->team())  ;
 		$board = yaml($page->board()) ;
 	?>
-	<div class="article span6 ">
+	<div class="article span5 offset1 ">
 		<h2>Team Members</h2>
 		<ul class="about-bios">
 
