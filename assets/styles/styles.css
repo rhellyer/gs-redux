@@ -573,7 +573,7 @@ font-weight: 600;
 .field-reports h2 { margin-bottom:0;}
 .field-reports .instructions {font-size:12px; font-style: italic; text-align: right;}
 .field-reports .byline {font-size:14px; color:#666; }
-.field-reports .article {margin-bottom:20px;}
+.field-reports .article {margin-bottom:20px; position:realtive;}
 
 .field-reports .image {
   float: left;
@@ -603,16 +603,10 @@ font-weight: 600;
   position:relative;
 }
 
-.regional-partners .article h2:before {
-  content:'';
-  height: 27px;
-  width: 29px;
-  background:url(../images/person-white.png) no-repeat ;
-  position:absolute;
-  left:10px; 
-  top: 15px;
-  opacity:.6;
-
+.regional-partners .article h2 {
+  
+ 
+  
 }
 
 .whoweare {
