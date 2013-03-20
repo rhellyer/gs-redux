@@ -635,3 +635,9 @@ img.shadow {
   display: inline-block !important;
   width: 1.5em !important;
 }
+
+ul.icons li [class^="icon-"], ul.icons li [class*=" icon-"] {
+width: .75em;
+}
+
+ul.icons li {margin-bottom:.5em;}
