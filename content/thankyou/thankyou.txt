@@ -17,10 +17,10 @@ Here are a few other simple ways you can help us help women and children right n
 
 <ul class="icons">
 	<li>
-		<i class="icon-twitter-sign icon-largex"></i>(link:https://www.facebook.com/pages/Global-Strategies-for-HIV-Prevention/78260623299 text:Like Global Strategies on Facebook) and let your friends know that you're a Global Strategies supporter
+		<i class="icon-facebook-sign icon-largex"></i>(link:https://www.facebook.com/pages/Global-Strategies-for-HIV-Prevention/78260623299 text:Like Global Strategies on Facebook) and let your friends know that you're a Global Strategies supporter
 	</li>
 	<li>
-		<i class="icon-facebook-sign icon-largex"></i>(link:http://twitter.com/glblstrategies text:Follow us on Twitter) and get our latest updates from the field
+		<i class="icon-twitter-sign icon-largex"></i>(link:http://twitter.com/glblstrategies text:Follow us on Twitter) and get our latest updates from the field
 	</li>
 	<li>
 		<i class="icon-exchange icon-largex"></i>(link:give/matching-gifts text:Find out if your employer) matches charitable donations and how to double or triple the impact of your gift
@@ -31,6 +31,6 @@ Here are a few other simple ways you can help us help women and children right n
 
 rightcolumn:
 
-(image:thankyou.jpg width:90% class:floatright)	
+(image:thankyou.jpg class:floatright)	
 
 ----
