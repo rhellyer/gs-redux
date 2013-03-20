@@ -32,7 +32,7 @@ maincolumn2:
 
 In appreciation for your commitment, you’ll receive quarterly stories and photos from the field to share the impact of your partnership. You will be invited to attend exclusive conference calls to hear about Global Strategies’ work and get exciting updates from special partners.
 
-(image:submit-btn.png link:https://app.etapestry.com/hosted/GlobalStrategiesforHIVPrev/OnlineGiving-preview.html)
+(image:submit-btn.png link:https://app.etapestry.com/hosted/GlobalStrategiesforHIVPrev/OnlineGiving.html)
 
 Monthly gifts of $30 or more and annual gifts of $360 or more qualify you as a Hope Partner. Monthly gifts will be charged on the same day of each month and annual gifts will be charged on the same day of each year.
 

@@ -14,7 +14,7 @@ maincolumn1:
 ##Payment Information
 (image:form-paymentinfo.png class:etapcomp)
 ##Additional Information -->
-(image:submit-btn.png link:https://app.etapestry.com/hosted/GlobalStrategiesforHIVPrev/OnlineGiving-preview.html)
+(image:submit-btn.png link:https://app.etapestry.com/hosted/GlobalStrategiesforHIVPrev/OnlineGiving.html)
 
 <div class="intro"><p>Your Support in Action</p></div>
 
