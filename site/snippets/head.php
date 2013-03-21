@@ -12,7 +12,6 @@
 
 <?php echo js('http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js') ?>
 <?php echo js('assets/fancybox/source/jquery.fancybox.pack.js') ?>
-<?php echo js('assets/masonry/masonry.js') ?>
 <?php echo js('assets/js/script.js') ?>
 
  <!-- Typekit and font awesome icons -->
